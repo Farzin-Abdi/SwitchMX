@@ -1,0 +1,1039 @@
+0	(mostrati i primi {0})
+1	=
+2	1 unità
+3	1 elemento
+4	1 trasferimento in corso
+5	100 = bordo inferiore dello schermo
+6	128 MB
+7	=
+8	192 MB
+9	=
+10	Orologio 24 ore
+11	=
+12	32 MB
+13	=
+14	=
+15	=
+16	64 MB
+17	=
+18	{0} {1} {2}
+19	Un computer della tua rete può osservare e provare SwitchMX mentre è in uso (con il token qui sotto)
+20	Un nome non può contenere /
+21	Un nome non può contenere / \\ : * ? \" < > |
+22	Un nome non può finire con un punto o uno spazio
+23	È pronta una nuova icona del menu HOME: apri SwitchMX una volta dall'Album per installarla
+24	A impostato
+25	Un lettore touch per film, musica e immagini
+26	Ripetizione A-B
+27	=
+28	AGGIUNGI SOTTOTITOLO
+29	Nero AMOLED
+30	Informazioni
+31	Colore principale
+32	Azione nel lettore
+33	Azioni
+34	Aggiungi
+35	Aggiungi uno stream
+36	Aggiungi server di rete
+37	Aggiungi a un'altra playlist
+38	Aggiungi ai preferiti
+39	Aggiungi a una playlist
+40	Aggiunto ai Mi piace
+41	Aggiunto ai preferiti
+42	Aggiunto a {0}
+43	{0} file aggiunti a {1}
+44	Aggiunta dell'icona al menu HOME
+45	Indirizzo
+46	Regola
+47	Avanzate
+48	Dopo 1 min
+49	Dopo 15 min
+50	Dopo 2 min
+51	Dopo 30 min
+52	Dopo 30 s
+53	Dopo 5 min
+54	Dopo un po' senza input durante la riproduzione; qualsiasi tasto li riattiva
+55	Dopo questo tempo senza tocchi o tasti; tocca due volte per riattivare
+56	Dopo {0} min
+57	Dopo {0} s
+58	Colori dell'album
+59	I colori seguono la copertina di ogni brano
+60	Tutto
+61	Consenti volume oltre il 100%
+62	Già in {0}
+63	Anche in pausa
+64	È pronto un aggiornamento dell'icona: apri SwitchMX una volta dall'Album per installarlo
+65	Animazioni
+66	Chi ha il token può vedere e controllare SwitchMX. Disattivalo quando hai finito.
+67	Aspetto
+68	Modalità applet: tieni premuto R aprendo un gioco per avere tutta la memoria
+69	apr
+70	aprile
+71	Arabo
+72	Archivio
+73	Nome dell'archivio
+74	Sei sicuro?
+75	Proporzioni
+76	Proporzioni
+77	All'avvio: {0}
+78	=
+79	Ritardo audio
+80	Menu audio
+81	Uscita audio
+82	ago
+83	agosto
+84	Aurora
+85	=
+86	Carica sottotitoli automaticamente
+87	Riproduci il successivo
+88	Automatico
+89	Indietro
+90	Sfondo delle schermate della libreria
+91	Sfondo
+92	Bilanciato
+93	Barre
+94	Potenziamento bassi
+95	Percentuale batteria
+96	Rete Bitcoin
+97	Contorno nero intorno alle lettere
+98	Audio Bluetooth disconnesso
+99	Grassetto
+100	Testo in grassetto
+101	In basso a sinistra
+102	In basso a destra
+103	Riquadro
+104	Riquadro dietro il testo dei sottotitoli
+105	Luminosità
+106	CONTATTI
+107	Calcolo dimensione
+108	Impossibile creare la cartella {0}
+109	Impossibile creare l'archivio
+110	Impossibile creare la cartella di destinazione
+111	Impossibile creare {0}: {1}
+112	Impossibile eliminare la cartella {0}: {1}
+113	Impossibile eliminare {0}: {1}
+114	Impossibile trovare questo server in rete
+115	{0} non trovato
+116	Impossibile completare l'archivio
+117	Impossibile finire di scrivere {0}
+118	Impossibile aprire {0}
+119	Impossibile riprodurre: {0}
+120	Impossibile mettere \"{0}\" dentro se stesso
+121	Impossibile leggere {0}
+122	Impossibile leggere {0}: {1}
+123	Impossibile scrivere l'archivio
+124	Impossibile scrivere sulla scheda SD
+125	Impossibile scrivere {0}
+126	Impossibile scrivere {0}: {1}
+127	Annulla
+128	Categoria
+129	Cambia
+130	Cambia chiave API…
+131	Modifica…
+132	Capitolo {0}
+133	Capitoli
+134	Caricabatterie scollegato
+135	In carica
+136	Ricerca aggiornamenti…
+137	Cinese
+138	Scegli un file
+139	Scegli un file…
+140	Scegli la dimensione del testo. Puoi cambiarla quando vuoi nelle Impostazioni.
+141	Scegli la tua lingua. Puoi cambiarla quando vuoi nelle Impostazioni.
+142	Cancella
+143	Cancella tutta la cronologia
+144	Svuota appunti
+145	Cancellare la cronologia?
+146	Annulla selezione
+147	Cancella cronologia di visione
+148	Cancellare la cronologia di visione?
+149	Chiudi
+150	Chiudi SwitchMX
+151	Chiudilo ora e riaprilo per usare la nuova versione.
+152	Chiudi lettore
+153	Chiudi ricerca
+154	Colore
+155	Colore del testo dei sottotitoli
+156	Colorata
+157	Colori
+158	Compatto
+159	Attenua le esplosioni e rafforza i dialoghi
+160	Attenua le scene rumorose
+161	Comprimi {0} elemento
+162	Comprimi {0} elementi
+163	Comprimi…
+164	Compressione
+165	Indirizzo del computer o NAS (es. 192.168.1.10 o MIOPC)
+166	Collegala da Impostazioni della console → Internet, poi torna qui.
+167	Connesso: {0}
+168	Connessione al server…
+169	Contiene: {0} file, {1} cartelle
+170	Indice
+171	Continua
+172	Continua a leggere
+173	Continua a guardare
+174	Riprendi da dove avevi lasciato
+175	Contrasto
+176	Controller spenti. Premi un tasto per riconnetterli
+177	Controlli
+178	Controlli bloccati
+179	Controlli sbloccati
+180	Copiato, ma impossibile rimuovere l'originale di {0}
+181	Copia
+182	Copia in corso
+183	Arrotondamento angoli
+184	Impossibile aggiungere l'icona
+185	Impossibile cercare aggiornamenti
+186	Impossibile comprimere
+187	Impossibile connettersi al server
+188	Impossibile creare la cartella
+189	Impossibile eliminare
+190	Impossibile eliminare il file
+191	Impossibile eliminare l'immagine
+192	Impossibile estrarre
+193	Impossibile completare
+194	Impossibile aprire il file
+195	Impossibile aprire il file
+196	Impossibile rimuovere l'unità
+197	Impossibile rimuovere l'icona
+198	Impossibile rinominare: {0}
+199	Impossibile sostituire il file dell'app
+200	Impossibile salvare lo screenshot
+201	Impossibile avviare il download. Riprova
+202	Impossibile avviare l'operazione
+203	Impossibile aggiornare l'icona del menu HOME
+204	Tempo residuo invece della durata totale
+205	Copertine
+206	Crema
+207	Crea cartelle, rinomina ed elimina
+208	{0} creato
+209	{0} creata. Premi X su un file per aggiungerlo
+210	Personalizzato…
+211	Taglia
+212	Ciano
+213	Cambia proporzioni
+214	Salto con sinistra/destra
+215	Su/giù nel lettore
+216	=
+217	Luce del giorno
+218	Debanding
+219	=
+220	Dati di debug
+221	dic
+222	dicembre
+223	Thread del decoder
+224	Decodifica
+225	Oceano profondo
+226	Predefinito
+227	Velocità predefinita
+228	Adattamento video predefinito
+229	Volume predefinito
+230	Deinterlacciamento
+231	Ritardo
+232	Elimina
+233	Eliminare \"{0}\"?
+234	Eliminare un file di sistema?
+235	Eliminare il file?
+236	Elimina playlist
+237	Eliminare questa immagine?
+238	Eliminare?
+239	Elimina impostazioni, cronologia e punti di ripresa, playlist, Mi piace, preferiti, stream, copertine, cache e log. Film, musica e immagini non vengono toccati, né gli screenshot né l'app stessa.
+240	Eliminazione
+241	Memoria del demuxer
+242	Deseleziona
+243	Dettagli
+244	Sviluppato da Farzin Abdi
+245	Accesso sviluppatore
+246	Modalità sviluppatore
+247	Mostra .mkv, .mp4 … dopo i nomi
+248	Fatto
+249	Salto con doppio tocco
+250	Doppio tocco a sinistra o a destra
+251	Doppio tocco per saltare
+252	Scarica e installa
+253	Scarica o riproduci qualsiasi cosa da scheda SD e unità USB
+254	Download…
+255	Trascina in orizzontale sul video
+256	Unità
+257	Olandese
+258	Ogni tocco in più aggiunge altro
+259	Ogni video si riapre con la traccia audio e i sottotitoli scelti
+260	Modifica
+261	=
+262	Crittografia non riuscita
+263	Fine del file
+264	Fine di questo brano
+265	Fine di questo video
+266	Inglese
+267	Inserisci chiave API…
+268	Inserisci un URL con la tastiera su schermo
+269	Equalizzatore
+270	Cancellare tutti i dati di SwitchMX?
+271	Cancella tutti i dati
+272	Cancella tutto
+273	Rete Ethereum · ETH ed ERC-20
+274	Ogni opzione torna al valore predefinito.
+275	Tutto ciò che aveva salvato è stato cancellato. Riaprilo per ripartire da zero.
+276	Corrispondenza esatta
+277	Esci
+278	Uscire da SwitchMX?
+279	Esterno
+280	Molto grande
+281	Estrai qui
+282	Estrai in \"{0}\"
+283	Estrai in…
+284	Estratto in {0}
+285	Estrazione
+286	FILM  ·  MUSICA  ·  IMMAGINI
+287	FPS e statistiche
+288	FPS, tempi dei fotogrammi, decoder, fotogrammi persi e memoria
+289	FTP su computer, NAS o telefono
+290	Indirizzo del server FTP (es. 192.168.1.10 o 192.168.1.10:2121)
+291	App server FTP
+292	Veloce
+293	Decodifica software veloce
+294	Più veloce
+295	Velocissimo
+296	Preferiti
+297	feb
+298	febbraio
+299	Gestione file
+300	Azioni sul file…
+301	File eliminato
+302	Dimensione file
+303	File
+304	Riempi
+305	Riempi (ritaglia)
+306	Cerca file .srt/.ass accanto al video
+307	Cerca online
+308	Cerca online…
+309	Finito
+310	Fuoco
+311	Prima pagina
+312	Adatta
+313	Adatta alla larghezza
+314	Adatta alla pagina
+315	Cartella
+316	Nome della cartella
+317	Cartella da aprire (/ per la radice)
+318	Segui le impostazioni di sistema
+319	Carattere
+320	Per registrazioni TV con righe sul movimento
+321	Per vecchi .srt con lettere illeggibili
+322	Imponi il mio stile
+323	Forzato
+324	Formato
+325	Grafico dei fotogrammi
+326	Francese
+327	venerdì
+328	Da bordi netti a forme arrotondate
+329	Dall'inizio
+330	=
+331	Tedesco
+332	Gesti
+333	GitHub è occupato. Riprova più tardi
+334	Vai alla pagina
+335	Vai alla pagina (da 1 a {0})
+336	Vai alla pagina…
+337	Vai al minuto (h:mm:ss)
+338	Vai al minuto…
+339	Sfumatura
+340	Grafite
+341	Greco
+342	Verde
+343	Griglia
+344	Vista a griglia
+345	Icona del menu HOME
+346	Link HTTP(S), HLS, RTMP, RTSP e IPTV .m3u
+347	Alone
+348	Hardware
+349	Decodifica hardware
+350	Cuffie
+351	Cuffie scollegate
+352	Carattere dei sottotitoli più spesso
+353	Ebraico
+354	Nascondi
+355	Nascondi controlli dopo
+356	File nascosti non visibili
+357	Evidenziazioni, barre di avanzamento e bagliore della selezione
+358	=
+359	Cronologia cancellata
+360	Tieni premuto per avanzare veloce
+361	Quanto salta uno scorrimento
+362	Come vengono mostrati i file nelle cartelle
+363	Come il video riempie lo schermo
+364	Tonalità
+365	Icona rimossa dal menu HOME
+366	Se un file esiste già
+367	Presentazione immagini
+368	Indonesiano
+369	=
+370	Dimensione interfaccia
+371	Viene scaricato da GitHub e sostituisce questa copia di SwitchMX. Le impostazioni restano.
+372	Servono le chiavi della console, salvate una volta con Lockpick_RCM:\n1. Riavvia in hekate → Payloads → Lockpick_RCM.\n2. Muoviti con VOL+ / VOL− e scegli con POWER: \"Dump from SysNAND\".\n3. Quando dice che le chiavi sono salvate, scegli \"Reboot to hekate\" (o Power off).\n4. Avvia Atmosphère come sempre e apri SwitchMX: l'icona appare da sola.
+373	Italiano
+374	gen
+375	gennaio
+376	Giapponese
+377	lug
+378	luglio
+379	giu
+380	giugno
+381	Adesso
+382	Caleidoscopio
+383	Mantieni entrambi
+384	Tieni la console sveglia
+385	Mantieni l'originale
+386	Lascia aperto finché non finisce
+387	Coreano
+388	Tasto L
+389	LINGUA
+390	Matrice LED
+391	Lingua
+392	Grande
+393	Testo più grande
+394	Prima i più grandi
+395	Ultimo file in coda
+396	Ultima pagina
+397	Ultima riproduzione: {0}
+398	Ultima richiesta {0} s fa
+399	Scorrimento a sinistra
+400	Durata: {0}
+401	Permette a un browser della tua rete di gestire i file appena SwitchMX si apre
+402	Layout della libreria
+403	Mi piace
+404	Mi piace / non più
+405	Mi piace
+406	Lilla
+407	Elenco
+408	Vista a elenco
+409	Grafico in tempo reale della durata di ogni fotogramma
+410	Posizione: {0}
+411	Blocca
+412	Blocca controlli
+413	Bloccato — premi − o tocca il lucchetto per sbloccare
+414	Salto lungo
+415	Salto lungo indietro
+416	Salto lungo avanti
+417	Aspetto della barra di avanzamento
+418	=
+419	Riducilo se i file grandi si chiudono in modalità applet
+420	Testi
+421	Testi nascosti
+422	Testi visibili
+423	Creato da Farzin Abdi
+424	Fatto con amore nel tempo libero. Se migliora la tua Switch, un regalo lo aiuta a crescere. Grazie!
+425	Gestisci i file da computer o telefono
+426	Vista gestione: tutti i file, con copia, sposta, rinomina e altro
+427	mar
+428	marzo
+429	mag
+430	Lettore multimediale
+431	Vista multimediale
+432	La memoria stava finendo, quindi la riproduzione si è fermata per non chiudere SwitchMX. La posizione è salvata.
+433	Menu
+434	Mezzanotte
+435	Mini barra di avanzamento
+436	Specchio
+437	Moka
+438	Modificato
+439	Modificato: {0}
+440	lunedì
+441	=
+442	Altro
+443	Altre opzioni
+444	Montagne
+445	Sposta comunque
+446	Sposta giù
+447	Sposta qui
+448	Spostare file di sistema?
+449	Sposta su
+450	Spostamento
+451	Qui appariranno la musica e i video che riproduci
+452	Visualizzatore musicale
+453	Muto
+454	Audio disattivato
+455	IN RIPRODUZIONE
+456	Solo NVTEGRA
+457	Nome
+458	Nome (A–Z)
+459	Nome (Z–A)
+460	Nome per questo server
+461	Neon
+462	Barre neon
+463	Bagliore neon
+464	Rete
+465	Cache di rete
+466	Stream di rete
+467	Mai
+468	Nuova cartella
+469	Nuovo nome
+470	Nuova playlist
+471	Nuovo token
+472	Prima i più recenti
+473	Successivo
+474	Traccia audio successiva
+475	Capitolo successivo
+476	File successivo
+477	Risultato successivo
+478	Sottotitolo successivo
+479	Accanto a questo video
+480	Modalità notte
+481	Audio modalità notte
+482	Nessun audio
+483	Nessun file in questo archivio
+484	Nessuna connessione Internet
+485	Nessun file di chiavi sulla scheda SD
+486	Nessun contenuto qui
+487	Nessun altro risultato
+488	Nessuna musica o video da aggiungere
+489	Nessuna connessione di rete
+490	Nessun file riproducibile in questa cartella
+491	Ancora nessuna playlist
+492	Ancora nessuna versione pubblicata · ricontrolla
+493	Nessuna richiesta finora
+494	Nessun sottotitolo accanto a questo video.
+495	Nessun sottotitolo qui. Apri una cartella.
+496	Nessuno
+497	Nessuno di questi file è disponibile
+498	Gelo nordico
+499	Normale
+500	Velocità normale
+501	Non disponibile: eliminato, spostato fuori dall'app o su un'unità rimossa
+502	Spazio insufficiente: servono {0}, liberi {1}
+503	Memoria insufficiente
+504	Memoria insufficiente per aprire questo file. Chiudi SwitchMX e riaprilo
+505	Non trovato
+506	Niente
+507	Nessun risultato
+508	=
+509	Nessun risultato per \"{0}\"
+510	Non manca nulla
+511	Ancora nessun Mi piace
+512	Ancora niente di fissato
+513	Ancora niente riprodotto
+514	nov
+515	novembre
+516	=
+517	=
+518	=
+519	APRI IN UN BROWSER O SCANSIONA IL CODICE
+520	Oceano
+521	ott
+522	ottobre
+523	=
+524	Disattivato (CPU)
+525	=
+526	Solo su Switch
+527	Dalla rete si riproducono solo video e musica
+528	Può connettersi solo la tua rete, con il PIN mostrato qui.
+529	Apri
+530	Riapri SwitchMX; puoi riprovare dalle Impostazioni.
+531	Apri prima SwitchMX dall'Album
+532	Apri una cartella e premi R per estrarre lì
+533	Apri prima una cartella
+534	Apri cartella che lo contiene
+535	Chiave API di OpenSubtitles
+536	OpenSubtitles ha risposto {0}
+537	OpenSubtitles ha rifiutato la chiave API
+538	Apertura
+539	Apertura memoria
+540	Apertura dei contenuti della scheda SD
+541	Apertura del database della scheda SD
+542	Opzioni
+543	Arancione
+544	Orbita
+545	Originale
+546	Oscilloscopio
+547	Spessore del contorno
+548	Schema di colori dell'interfaccia
+549	Posizione dei dati
+550	IMMAGINE
+551	FISSATI
+552	IN RIPRODUZIONE DA
+553	Pagina
+554	Pagina {0}
+555	Pagina {0} di {1}
+556	Particelle
+557	=
+558	Incolla
+559	Incolla qui
+560	Pausa quando si scollegano le cuffie
+561	Dati di prestazione
+562	Persiano
+563	Scelta automaticamente se disponibile
+564	Immagine eliminata
+565	Pizzica per zoomare
+566	Rosa
+567	Riproduci
+568	Riproduci / pausa
+569	Riproduci tutto
+570	Riproduci dall'inizio
+571	Riproduci da qui
+572	Riproduci ora
+573	Riproduci solo questo file
+574	Riproduzione
+575	Velocità di riproduzione
+576	Velocità per i nuovi file
+577	Riproduzione interrotta
+578	La riproduzione si è fermata perché l'unità con questo file è stata scollegata.
+579	Controlli del lettore
+580	Menu del lettore
+581	=
+582	Nome della playlist
+583	Playlist
+584	Polacco
+585	Portoghese
+586	Posizione
+587	Utenti esperti: metti mpv.conf in {0}
+588	Basato su mpv, FFmpeg, libass, NanoVG e QR Code generator (Project Nayuki)
+589	Preciso
+590	Lingua audio preferita
+591	Lingua preferita
+592	Premi di nuovo B per chiudere il lettore
+593	Premi B per tornare indietro
+594	Premi X nel lettore musicale per provarli tutti
+595	Premi X su un file o una cartella (o tienilo premuto) e scegli Aggiungi ai preferiti
+596	Premi X su un file o una cartella e scegli Aggiungi a una playlist
+597	Premi Y per riprovare o B per tornare
+598	Tieni premuto il video per accelerare
+599	Precedente
+600	Capitolo precedente
+601	File precedente
+602	Risultato precedente
+603	Linea di avanzamento quando i comandi sono nascosti
+604	Proprietà
+605	Pulsazione
+606	Coda
+607	Mette in coda gli altri video della cartella
+608	Tasto R
+609	Radiale
+610	Arcobaleno
+611	=
+612	Raggi
+613	Leggi
+614	Velocità di lettura: {0}
+615	Lettura archivio
+616	Opzioni di lettura
+617	Pronto
+618	Recenti
+619	Rosso
+620	Aggiorna
+621	Rilassato
+622	Ricorda le tracce scelte
+623	Rimuovi
+624	Rimuovi dai preferiti
+625	Rimuovi dalla cronologia
+626	Rimuovi dalla playlist
+627	Rimuovi file mancanti
+628	Rimuovere l'icona del menu HOME?
+629	Rimuovere questo server?
+630	Rimosso dai Mi piace
+631	Rimosso dai preferiti
+632	{0} elemento rimosso
+633	{0} elementi rimossi
+634	Elimina le bande di colore
+635	Rimozione dell'icona
+636	Rinomina
+637	Rinominare un elemento di sistema?
+638	Rinomina comunque
+639	Rinominato
+640	Ripeti
+641	Ripeti tutto
+642	Ripeti file
+643	Ripeti cartella
+644	Ripetizione disattivata
+645	Ripeti questo file
+646	Ripeti questo brano
+647	Sostituisci
+648	Ripristina
+649	Ripristina tutte le impostazioni
+650	Ripristino terminato con problemi
+651	Ripristinare le impostazioni?
+652	Ripristina zoom e posizione
+653	Riavviare SwitchMX?
+654	Riprendi
+655	Riprendi riproduzione
+656	I punti di ripresa verranno dimenticati.
+657	Ripreso da {0}
+658	Ripreso da {0}
+659	Creste
+660	Scorrimento a destra
+661	Onda ad anello
+662	Ruota
+663	Russo
+664	Scheda SD
+665	Scheda SD o USB
+666	SMB (cartelle condivise)
+667	AUDIO
+668	Puoi scollegare {0}
+669	Rimozione sicura
+670	Saturazione
+671	sabato
+672	Salva log di debug
+673	Salvataggio dati dell'icona
+674	Solo scala
+675	Ridimensiona tutti gli elementi dello schermo
+676	Scansiona per scrivere un'email.
+677	Scansiona con la fotocamera del telefono per aprirlo.
+678	Schermo spento
+679	Screenshot
+680	Screenshot salvato
+681	Cerca
+682	Cerca nel documento
+683	Cerca in questa cartella e nelle sottocartelle
+684	Cerca sottotitoli per
+685	Cerca: {0}
+686	Ricerca
+687	Per cercare serve una tua chiave API gratuita di OpenSubtitles:
+688	Ricerca…
+689	Cerca…
+690	Secondi precaricati in streaming
+691	Stile della barra di avanzamento
+692	Passo del salto lungo
+693	Seleziona
+694	Seleziona tutto
+695	Seleziona file
+696	Invia solo Bitcoin (BTC) sulla rete Bitcoin a questo indirizzo.
+697	Invia solo ETH o token ERC-20 sulla rete Ethereum a questo indirizzo.
+698	Invia solo SOL o token Solana sulla rete Solana a questo indirizzo.
+699	Invia solo USDT sulla rete Tron (TRC-20). Su altre reti andrebbero persi.
+700	Manda un po' d'amore · tocca per ingrandire il codice
+701	set
+702	Settembre
+703	Server nella tua rete: FTP
+704	Imposta A
+705	Imposta B
+706	Impostazioni
+707	Impostazioni ripristinate
+708	Ombra
+709	Modella il suono di musica e film
+710	Cartella condivisa (vuota per scegliere tra quelle del server)
+711	Cartelle condivise (SMB) e server FTP della tua rete
+712	Cartelle condivise (SMB) o FTP
+713	Salto breve
+714	Dai un po' d'amore a SwitchMX
+715	Mostra tutti i tipi di file
+716	Mostra i controlli, poi esci
+717	Mostra dettagli dei file
+718	Mostra estensioni
+719	Mostra file nascosti
+720	Mostra locandine, copertine e anteprime nel browser
+721	Mostra tempo residuo
+722	Mostra il livello della batteria in numeri
+723	Tutti i file visibili
+724	File nascosti visibili
+725	Solo contenuti multimediali
+726	Mostrati nel lettore musicale da un file .lrc o dai tag del brano
+727	Casuale
+728	Casuale disattivato
+729	Casuale attivato
+730	Dimensione
+731	Dimensione e data sotto ogni file
+732	Dimensione: {0}
+733	Salta esistenti
+734	Saltalo
+735	Azzurro
+736	Fermare dopo quanti minuti?
+737	Stop tra {0} min
+738	Timer di spegnimento
+739	Timer terminato
+740	Timer: riproduzione in pausa
+741	Presentazione
+742	Presentazione avviata
+743	Presentazione fermata
+744	Sottile
+745	Più lento
+746	Piccolo
+747	Altoparlanti piccoli
+748	Testo più piccolo
+749	Fluido
+750	Leviga le bande di colore (usa più GPU)
+751	Scattante
+752	Software
+753	Decodifica software
+754	Thread di decodifica software
+755	Rete Solana
+756	Pieno
+757	Riquadro pieno
+758	Alcuni elementi esistono già
+759	Qualcosa è andato storto con OpenSubtitles
+760	Brani e video che ti piacciono, e cartelle e file fissati
+761	Ordina e filtra
+762	Audio
+763	Spagnolo
+764	Linea di spettro
+765	Menu velocità
+766	Velocità di transizioni e movimenti
+767	Campo stellare
+768	Avvia SwitchMX dalla sua icona invece che dall'Album
+769	Avvia il trasferimento Wi-Fi con l'app
+770	Ricomincia
+771	Avvia una presentazione aprendo un'immagine
+772	=
+773	Stereo (altoparlanti, cuffie)
+774	Ferma
+775	Ferma presentazione
+776	Interrompere il download?
+777	Impedisce l'oscuramento e lo standby automatico
+778	Archiviazione
+779	=
+780	URL dello stream
+781	Stream
+782	Allunga
+783	Stile
+784	Sottotitoli con stile (ASS)
+785	File di sottotitoli
+786	Sottotitolo caricato
+787	Sottotitoli
+788	Menu sottotitoli
+789	Sottotitoli disattivati
+790	Discreta
+791	domenica
+792	Tramonto
+793	Il surround richiede una TV o un ricevitore 5.1 via HDMI
+794	Surround nella base
+795	Scambia A e B
+796	Svedese
+797	Sensibilità dello scorrimento
+798	Scorri per saltare
+799	SwitchMX ha una sua icona nel menu HOME
+800	SwitchMX è nel menu HOME
+801	SwitchMX è avviato da questa icona e quindi non può rimuoverla. Chiudi l'app, aprila dall'Album (hbmenu) e disattiva lì.
+802	SwitchMX è stato ripristinato
+803	DIMENSIONE TESTO
+804	TEMPI E STILE
+805	Prende un fotogramma dai video senza copertina
+806	Fai uno screenshot
+807	Tocca Nuova playlist, o premi X su un brano o video e scegli Aggiungi a una playlist
+808	Tocca i file per selezionarli
+809	Tocca i file per selezionarli
+810	Tocca l'icona dell'occhio per vedere tutti i file
+811	Tocca il cuore nel lettore per mettere Mi piace
+812	Tocca il cuore nel lettore, o premi X su un file
+813	Tocca per ingrandire il codice
+814	Tocca per sbloccare
+815	Test velocità di lettura
+816	Colore del testo
+817	Codifica del testo
+818	Dimensione del testo
+819	Dimensione testo {0}
+820	Thailandese
+821	Non sembra un server FTP
+822	Questo non è un indirizzo di rete
+823	A quel file di chiavi manca header_key o key_area_key_application_00
+824	Quel nome è già usato qui
+825	L'icona del menu HOME è stata aggiornata
+826	La scheda SD è piena o di sola lettura
+827	La Switch non è connessa al Wi-Fi.
+828	L'app resta sulla scheda SD.
+829	Connessione persa
+830	La console è occupata. Riprova tra poco
+831	La console è troppo occupata per cercare ora
+832	La console resta attiva finché questo è acceso.
+833	L’orologio della console segna {0}: gli stream possono non funzionare
+834	=
+835	Download non riuscito ({0})
+836	Il download è incompleto
+837	L'unità si è riempita scrivendo {0}
+838	I file restano dove sono.
+839	L’elenco della cartella si è interrotto
+840	L'icona avvia {0}, che non esiste. Sposta prima l'app lì.
+841	L'icona verrà aggiunta da sola
+842	L'icona non verrà aggiunta
+843	Impossibile aprire la tastiera. Avvia SwitchMX da un gioco (tieni premuto R) e riprova
+844	La lingua di menu e messaggi
+845	La musica continua. Tocca due volte per riattivare.
+846	Il vecchio token non funziona più
+847	La coda è ancora in caricamento
+848	Il server non ha accettato l’accesso
+849	Il server non risponde (è acceso e su questa rete?)
+850	Il server non consente trasferimenti passivi
+851	Il server ha rifiutato la connessione
+852	Il server non elenca le sue cartelle condivise
+853	Il server non elenca questa cartella
+854	Risposta del server non comprensibile
+855	Tema
+856	Non esiste la pagina {0}
+857	Sul server non c’è una cartella condivisa con quel nome
+858	Questi elementi servono ad avviare la console o l'homebrew.
+859	Sottile linea di avanzamento con i controlli nascosti
+860	Dimentica anche tutti i punti di ripresa.
+861	Questo archivio richiede una password
+862	Non si può annullare. SwitchMX si chiuderà al termine e ripartirà da zero la prossima volta.
+863	Impossibile aprire questo documento
+864	Questo documento è protetto. Inserisci la password
+865	Non sembra un file di testo
+866	Questa cartella
+867	Questa cartella è vuota
+868	Questa cartella non è più sul server
+869	È l'unica immagine qui
+870	Questo tipo di server non è supportato
+871	Questa playlist è vuota
+872	Questa versione non ha uno SwitchMX.nro da scaricare
+873	giovedì
+874	Nomi video puliti
+875	Tempo prima che i dati spariscano
+876	Oggi
+877	Il limite di download di oggi è esaurito
+878	Token
+879	In alto a sinistra
+880	In alto a destra
+881	Touch: doppio tocco ai lati per saltare · scorri per spostarti · pizzica per zoomare · tieni premuto per accelerare
+882	Traccia {0}
+883	Un po' meno nitidezza per una riproduzione fluida via CPU
+884	Riquadro traslucido
+885	Potenziamento alti
+886	Rete Tron · TRC-20
+887	martedì
+888	Turco
+889	Ruota
+890	Disattiva
+891	Spegni i controller wireless
+892	Attiva
+893	Spegni lo schermo con la musica
+894	Disattiva e riattiva l'icona in Impostazioni, Avanzate.
+895	Ruota la pagina
+896	Ruotata a sinistra
+897	Ruotata a destra
+898	Due dita per zoomare, trascina per spostare
+899	Scrivi un tempo come 1:05:30
+900	Carattere di menu ed elenchi; Automatico segue la lingua
+901	A SEGUIRE
+902	Audio USB disconnesso
+903	Unità USB
+904	Unità USB rimossa
+905	Ucraino
+906	Artista sconosciuto
+907	Errore sconosciuto
+908	Non mi piace più
+909	Riattiva audio
+910	A seguire
+911	Cartella superiore
+912	Aggiorna a v{0}
+913	Aggiornare a v{0}?
+914	Aggiornato a v{0}
+915	Carica film, musica e immagini da un browser
+916	Capovolta
+917	Formato 24 ore nella barra di stato
+918	B per confermare e A per tornare
+919	Nome utente (lascia vuoto per accedere come ospite)
+920	Usa il chip video della Switch per H.264, HEVC, VP9 e MPEG-2
+921	Trascinamento verticale nella metà sinistra
+922	Trascinamento verticale nella metà destra
+923	Posizione verticale
+924	=
+925	Impossibile avviare il motore video
+926	Il motore video non è disponibile
+927	Menu video
+928	Miniature video
+929	Vietnamita
+930	Visualizza come testo
+931	Visualizza contenuto
+932	Visualizzatore
+933	Colori del visualizzatore
+934	Voce
+935	=
+936	Amplificazione volume
+937	Volume all'avvio del lettore
+938	Volume, equalizzatore, modalità notte
+939	ATTENZIONE: include file di sistema. La console o l'homebrew potrebbero non avviarsi più.
+940	ATTENZIONE: senza, la console o l'homebrew potrebbero non avviarsi più.\n\n
+941	In attesa del Wi-Fi…
+942	In attesa di un browser
+943	In attesa di prod.keys sulla scheda SD; verrà aggiunta da sola
+944	Visto
+945	I link web non si possono aprire da qui
+946	mercoledì
+947	Benvenuto in SwitchMX
+948	Cosa succede alla fine della riproduzione
+949	Con i controlli nascosti
+950	Dove compaiono i dati di debug
+951	Se il tuo stile sostituisce quello del file
+952	Durante la riproduzione
+953	Bianco
+954	Trasferimento Wi-Fi
+955	Il trasferimento Wi-Fi parte solo quando lo attivi
+956	Il trasferimento Wi-Fi partirà con SwitchMX
+957	Windows, Mac, NAS
+958	Cablate, USB o Bluetooth: la riproduzione va in pausa invece di passare all'altoparlante
+959	Funziona con sottotitoli SRT e ASS
+960	Scrive un log dettagliato in switch/SwitchMX/mpv-log.txt
+961	Scrittura dei file dell'icona
+962	Password errata, riprova
+963	Password errata. Riprova
+964	Nome utente o password errati
+965	Tasto X
+966	X stile successivo
+967	Tasto Y
+968	Giallo
+969	Ieri
+970	Hai l'ultima versione
+971	La console o l'homebrew potrebbero non avviarsi se viene rinominato.
+972	La tua musica e i tuoi video, nell'ordine che scegli
+973	I file riprodotti di recente
+974	ZIP con password (AES-256)
+975	Tasto ZL
+976	Tasto ZR
+977	=
+978	\"{0}\" pesa {1}, ma questa unità è FAT32 e non accetta file oltre 4 GB. Usa un'unità exFAT o NTFS, o formatta questa in exFAT.
+979	\"{0}\" verrà eliminato definitivamente.
+980	qualsiasi tasto per tornare
+981	copia, sposta, rinomina, elimina
+982	=
+983	=
+984	opensubtitles.com → accedi → Profile → API consumers
+985	in pausa
+986	scegli più file
+987	riavvia per usarla
+988	B
+989	GB
+990	KB
+991	MB
+992	tocca il cuore nel lettore per aggiungerne altri
+993	riprova
+994	{0}
+995	{0} GB liberi su {1} GB
+996	{0}
+997	{0} giorni fa
+998	{0} download rimasti oggi
+999	{0} unità
+1000	{0} unità
+1001	{0} voci
+1002	{0} file
+1003	{0} file
+1004	{0} supera 4 GB e il file system FAT32 di questa unità non può contenerlo. Usa un'unità exFAT o NTFS.
+1005	{0} elemento
+1006	{0} elemento copiato
+1007	{0} elemento copiato ({1} saltati)
+1008	{0} elemento copiato. Apri una cartella e tocca Incolla (o premi R)
+1009	{0} elemento non rimosso
+1010	{0} elemento tagliato. Apri una cartella e tocca Incolla (o premi R)
+1011	{0} elemento eliminato
+1012	{0} elemento spostato
+1013	{0} elemento spostato ({1} saltati)
+1014	{0} elemento selezionato
+1015	{0} elementi
+1016	{0} elementi copiati
+1017	{0} elementi copiati ({1} saltati)
+1018	{0} elementi copiati. Apri una cartella e tocca Incolla (o premi R)
+1019	{0} elementi non rimossi
+1020	{0} elementi tagliati. Apri una cartella e tocca Incolla (o premi R)
+1021	{0} elementi eliminati
+1022	{0} elementi spostati
+1023	{0} elementi spostati ({1} saltati)
+1024	{0} elementi selezionati
+1025	{0} min
+1026	{0} di {1}
+1027	{0} secondi
+1028	{0} trasferimenti in corso
+1029	{0} visto
+1030	{0} verrà eliminato definitivamente. Non si può annullare.
+1031	{0}, {1} {2}
+1032	«Better Call Saul S01E02» invece del nome del file; il Gestore file mostra i nomi originali
+1033	«{0}» verrà rimosso da SwitchMX. Sul server non cambia nulla.
+1034	→ New consumer, poi copia la sua chiave API.
+1035	Software libero con licenza AGPL-3.0 · codice su github.com/Farzin-Abdi/SwitchMX
+1036	Basato su mpv, FFmpeg, libass, MuPDF, libsmb2, libusbhsfs, libarchive, NanoVG e QR Code generator (Project Nayuki)
+1037	Impossibile riprodurre
+1038	Questo file si interrompe a {0}: potrebbe essere danneggiato o incompleto

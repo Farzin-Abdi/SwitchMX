@@ -1,0 +1,31 @@
+# Build output
+build/
+build-desktop/
+build-asan/
+*.nro
+*.nacp
+*.elf
+*.map
+.DS_Store
+
+# Generated from the files beside them; `make` rebuilds these (see README).
+# source/font_data.c is ~15 MB of embedded typefaces generated from third_party/*/*.ttf,
+# so it is built rather than stored.
+source/font_data.c
+source/codepages.c
+
+# Prebuilt static libraries: the sources and build scripts are what belongs in the repository
+# (tools/build_mupdf.sh, tools/build_libsmb2.sh). See THIRD-PARTY.md.
+third_party/mupdf/lib/
+third_party/mupdf/include/
+third_party/libsmb2/lib/
+third_party/libsmb2/include/
+third_party/libusbhsfs/lib/
+third_party/libsmb2-src/
+third_party/forwarder/build/
+
+# The forwarder's own build output (tools/gen_forwarder_data.sh builds it from third_party/forwarder).
+third_party/forwarder/hbl.elf
+third_party/forwarder/hbl.nso
+third_party/forwarder/hbl.npdm
+third_party/forwarder/hbl.nsp

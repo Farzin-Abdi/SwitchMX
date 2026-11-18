@@ -1,0 +1,1039 @@
+(first {0} shown)
+. Open a folder, then tap Paste (or press R)
+1 drive
+1 item
+1 transfer running
+100 = bottom edge of the screen
+128 MB
+15 min
+192 MB
+2 min
+24-hour clock
+30 min
+32 MB
+45 min
+5 min
+60 min
+64 MB
+90 min
+@date {0} {1} {2}
+A computer on your network can watch and test SwitchMX while it runs (with the token below)
+A name can't contain /
+A name can't contain / \\ : * ? \" < > |
+A name can't end with a dot or a space
+A new HOME Menu icon is ready: open SwitchMX once from the Album to install it
+A set
+A touch-first media player for films, music and pictures
+A-B loop
+ACCOUNT
+ADD A SUBTITLE
+AMOLED Black
+About
+Accent colour
+Action in the player
+Actions
+Add
+Add a stream
+Add network server
+Add to another playlist
+Add to favorites
+Add to playlist
+Added to Liked
+Added to favorites
+Added to {0}
+Added {0} files to {1}
+Adding the icon to the HOME Menu
+Address
+Adjust
+Advanced
+After 1 min
+After 15 min
+After 2 min
+After 30 min
+After 30 s
+After 5 min
+After no input while playing; any button wakes them
+After no touch or button for this long; tap twice to wake
+After {0} min
+After {0} s
+Album colours
+Album colours follow each song's cover
+All
+Allow volume above 100%
+Already in {0}
+Also while paused
+An update for the icon is ready: open SwitchMX once from the Album to install it
+Animations
+Anyone with the token can see and control SwitchMX. Turn this off when you're done.
+Appearance
+Applet mode: hold R while opening a game for full memory
+Apr
+April
+Arabic
+Archive
+Archive name
+Are you sure?
+Aspect
+Aspect ratio
+At start: {0}
+Audio
+Audio delay
+Audio menu
+Audio output
+Aug
+August
+Aurora
+Auto
+Auto-load subtitles
+Auto-play next
+Automatic
+Back
+Backdrop of the library screens
+Background
+Balanced
+Bars
+Bass boost
+Battery percentage
+Bitcoin network
+Black outline around letters
+Bluetooth audio disconnected
+Bold
+Bold text
+Bottom left
+Bottom right
+Box
+Box behind subtitle text
+Brightness
+CONTACT
+Calculating size
+Can't create folder {0}
+Can't create the archive
+Can't create the destination folder
+Can't create {0}: {1}
+Can't delete folder {0}: {1}
+Can't delete {0}: {1}
+Can't find this server on the network
+Can't find {0}
+Can't finish the archive
+Can't finish writing {0}
+Can't open {0}
+Can't play: {0}
+Can't put \"{0}\" inside itself
+Can't read {0}
+Can't read {0}: {1}
+Can't write the archive
+Can't write to the SD card
+Can't write {0}
+Can't write {0}: {1}
+Cancel
+Category
+Change
+Change API key…
+Change…
+Chapter {0}
+Chapters
+Charger removed
+Charging
+Checking for updates…
+Chinese
+Choose a file
+Choose a file…
+Choose a text size. You can change it any time in Settings.
+Choose your language. You can change it any time in Settings.
+Clear
+Clear all history
+Clear clipboard
+Clear history?
+Clear selection
+Clear watch history
+Clear watch history?
+Close
+Close SwitchMX
+Close it now and open it again to use the new version.
+Close player
+Close search
+Colour
+Colour of subtitle text
+Colourful
+Colours
+Compact
+Compress loud explosions and boost dialogue
+Compress loud scenes
+Compress {0} item
+Compress {0} items
+Compress...
+Compressing
+Computer or NAS address (like 192.168.1.10 or MYPC)
+Connect it in System Settings → Internet, then come back here.
+Connected: {0}
+Connecting to the server…
+Contains: {0} files, {1} folders
+Contents
+Continue
+Continue reading
+Continue watching
+Continue where you left off
+Contrast
+Controllers turned off. Press any button to reconnect
+Controls
+Controls locked
+Controls unlocked
+Copied, but can't remove the original of {0}
+Copy
+Copying
+Corner roundness
+Couldn't add the icon
+Couldn't check for updates
+Couldn't compress
+Couldn't connect to the server
+Couldn't create the folder
+Couldn't delete
+Couldn't delete file
+Couldn't delete the picture
+Couldn't extract
+Couldn't finish
+Couldn't open file
+Couldn't open the file
+Couldn't remove the drive
+Couldn't remove the icon
+Couldn't rename: {0}
+Couldn't replace the app file
+Couldn't save the screenshot
+Couldn't start the download. Try again
+Couldn't start the operation
+Couldn't update the HOME Menu icon
+Countdown instead of total duration
+Cover art
+Cream
+Create folders, rename and delete
+Created {0}
+Created {0}. Press X on any file to add it
+Custom…
+Cut
+Cyan
+Cycle aspect
+D-pad left/right seek step
+D-pad up/down in player
+DECODER
+Daylight
+Deband
+Debug
+Debug overlay
+Dec
+December
+Decoder threads
+Decoding
+Deep Ocean
+Default
+Default speed
+Default video fit
+Default volume
+Deinterlace
+Delay
+Delete
+Delete \"{0}\"?
+Delete a system file?
+Delete file?
+Delete playlist
+Delete this picture?
+Delete?
+Deletes your settings, watch history and resume points, playlists, likes, favourites, streams, cover art and caches, and logs. Your films, music and pictures are not touched, nor are your screenshots or the app itself.
+Deleting
+Demuxer memory
+Deselect
+Details
+Developed by Farzin Abdi
+Developer access
+Developer mode
+Display .mkv, .mp4 … after names
+Done
+Double-tap seek amount
+Double-tap the left or right side
+Double-tap to seek
+Download and install
+Download or play anything on the SD card and USB drives
+Downloading…
+Drag horizontally across the video
+Drives
+Dutch
+Each extra tap adds more
+Each video reopens with the audio and subtitle track you picked
+Edit
+Email
+Encryption failed
+End of file
+End of this song
+End of this video
+English
+Enter API key…
+Enter a URL with the on-screen keyboard
+Equalizer
+Erase all SwitchMX data?
+Erase all data
+Erase everything
+Ethereum network · ETH and ERC-20
+Every option goes back to its default value.
+Everything it saved is gone. Open it again for a fresh start.
+Exact match
+Exit
+Exit SwitchMX?
+External
+Extra large
+Extract here
+Extract to \"{0}\"
+Extract to...
+Extracted to {0}
+Extracting
+FILMS  ·  MUSIC  ·  PICTURES
+FPS & stats
+FPS, frame times, decoder, dropped frames and memory
+FTP on a computer, NAS or phone
+FTP server address (like 192.168.1.10 or 192.168.1.10:2121)
+FTP server apps
+Fast
+Fast software decoding
+Faster
+Fastest
+Favorites
+Feb
+February
+File Manager
+File actions…
+File deleted
+File size
+Files
+Fill
+Fill (crop)
+Find .srt/.ass files next to the video
+Find online
+Find online…
+Finished
+Fire
+First page
+Fit
+Fit the page width
+Fit the whole page
+Folder
+Folder name
+Folder to open (/ for the top)
+Follow system settings
+Font
+For TV recordings with lines on movement
+For old .srt files that show garbled letters
+Force my style
+Forced
+Format
+Frame-time graph
+French
+Friday
+From sharp edges to soft pill shapes
+From the beginning
+Gamma
+German
+Gestures
+GitHub is busy. Try again later
+Go to page
+Go to page (1 to {0})
+Go to page…
+Go to time (h:mm:ss)
+Go to time…
+Gradient
+Graphite
+Greek
+Green
+Grid
+Grid view
+HOME Menu icon
+HTTP(S), HLS, RTMP, RTSP and IPTV .m3u links
+Halo
+Hardware
+Hardware decoding
+Headphones
+Headphones unplugged
+Heavier subtitle font
+Hebrew
+Hide
+Hide controls after
+Hiding hidden files
+Highlights, progress bars and focus glow
+Hindi
+History cleared
+Hold for fast-forward
+How far a swipe seeks
+How files are shown in folders
+How video fills the screen
+Hue
+Icon removed from the HOME Menu
+If a file already exists
+Image slideshow
+Indonesian
+Info
+Interface size
+It downloads from GitHub and replaces this copy of SwitchMX. Your settings are kept.
+It needs your console's keys, saved once by Lockpick_RCM:\n1. Restart into hekate → Payloads → Lockpick_RCM.\n2. Move with VOL+ / VOL−, choose with POWER: pick \"Dump from SysNAND\".\n3. When it says the keys were saved, choose \"Reboot to hekate\" (or Power off).\n4. Launch Atmosphère as usual and open SwitchMX: the icon appears by itself.
+Italian
+Jan
+January
+Japanese
+Jul
+July
+Jun
+June
+Just now
+Kaleidoscope
+Keep both
+Keep console awake
+Keep original
+Keep this open until it finishes
+Korean
+L button
+LANGUAGE
+LED matrix
+Language
+Large
+Larger text
+Largest first
+Last file in queue
+Last page
+Last played: {0}
+Last request {0} s ago
+Left side swipe
+Length: {0}
+Lets a browser on your network manage files as soon as SwitchMX opens
+Library layout
+Like
+Like / unlike
+Liked
+Lilac
+List
+List view
+Live graph of how long each frame takes
+Location: {0}
+Lock
+Lock controls
+Locked — press − or tap the lock to unlock
+Long seek
+Long seek back
+Long seek fwd
+Look of the progress bar
+Loudness
+Lower this if large files crash in applet mode
+Lyrics
+Lyrics off
+Lyrics on
+Made by Farzin Abdi
+Made with love in spare time. If it makes your Switch better, a gift helps it grow. Thank you!
+Manage files from a computer or phone
+Manage view: every file, with copy, move, rename and more
+Mar
+March
+May
+Media Player
+Media view
+Memory ran low, so playback stopped to keep SwitchMX running. Your place is saved.
+Menu
+Midnight
+Mini progress bar
+Mirror
+Mocha
+Modified
+Modified: {0}
+Monday
+Mono
+More
+More options
+Mountains
+Move anyway
+Move down
+Move here
+Move system files?
+Move up
+Moving
+Music and videos you play will show up here
+Music visualizer
+Mute
+Muted
+NOW PLAYING
+NVTEGRA only
+Name
+Name (A–Z)
+Name (Z–A)
+Name for this server
+Neon
+Neon bars
+Neon glow
+Network
+Network cache
+Network streams
+Never
+New folder
+New name
+New playlist
+New token
+Newest first
+Next
+Next audio track
+Next chapter
+Next file
+Next match
+Next subtitle
+Next to this video
+Night mode
+Night mode audio
+No audio
+No files found in this archive
+No internet connection
+No keys file on the SD card
+No media here
+No more matches
+No music or videos to add
+No network connection
+No playable files in this folder
+No playlists yet
+No release published yet · check again
+No requests yet
+No subtitle files found next to this video.
+No subtitle files here. Open a folder.
+None
+None of these files are available
+Nord Frost
+Normal
+Normal speed
+Not available: deleted, moved outside the app, or on a removed drive
+Not enough free space: needs {0}, {1} free
+Not enough memory
+Not enough memory to open this file. Close SwitchMX and start it again
+Not found
+Nothing
+Nothing found
+Nothing found for ...
+Nothing found for \"{0}\"
+Nothing is missing
+Nothing liked yet
+Nothing pinned yet
+Nothing played yet
+Nov
+November
+OFF
+OK
+ON
+OPEN IN A BROWSER, OR SCAN THE CODE
+Ocean
+Oct
+October
+Off
+Off (CPU)
+On
+Only on the Switch
+Only videos and music play from a network place
+Only your network can connect, and it needs the PIN shown here.
+Open
+Open SwitchMX again; you can retry from Settings.
+Open SwitchMX from the Album first
+Open a folder and press R to extract there
+Open a folder first
+Open containing folder
+OpenSubtitles API key
+OpenSubtitles answered {0}
+OpenSubtitles refused the API key
+Opening
+Opening storage
+Opening the SD card's content storage
+Opening the SD card's database
+Options
+Orange
+Orbit
+Original
+Oscilloscope
+Outline thickness
+Overall colour scheme of the interface
+Overlay position
+PICTURE
+PINNED
+PLAYING FROM
+Page
+Page {0}
+Page {0} of {1}
+Particles
+Password
+Paste
+Paste here
+Pause when headphones disconnect
+Performance overlay
+Persian
+Picked automatically when available
+Picture deleted
+Pinch to zoom
+Pink
+Play
+Play / pause
+Play all
+Play from beginning
+Play from here
+Play now
+Play only this file
+Playback
+Playback speed
+Playback speed for new files
+Playback stopped
+Playback stopped because the drive with this file was unplugged.
+Player controls
+Player menu
+Playlist
+Playlist name
+Playlists
+Polish
+Portuguese
+Position
+Power users: put mpv.conf in {0}
+Powered by mpv, FFmpeg, libass, NanoVG and QR Code generator (Project Nayuki)
+Precise
+Preferred audio language
+Preferred language
+Press B again to close the player
+Press B to go back
+Press X in the music player to try them all
+Press X on a file or folder (or hold it) and choose Add to favorites
+Press X on a file or folder and choose Add to playlist
+Press Y to try again, or B to go back
+Press and hold the video to speed up
+Previous
+Previous chapter
+Previous file
+Previous match
+Progress line while the controls are hidden
+Properties
+Pulse
+Queue
+Queue the other videos in the folder
+R button
+Radial
+Rainbow
+Rar!\x1a\x07
+Rays
+Read
+Read speed: {0}
+Reading archive
+Reading options
+Ready
+Recent
+Red
+Refresh
+Relaxed
+Remember track choices
+Remove
+Remove from favorites
+Remove from history
+Remove from playlist
+Remove missing files
+Remove the HOME Menu icon?
+Remove this server?
+Removed from Liked
+Removed from favorites
+Removed {0} item
+Removed {0} items
+Removes colour banding
+Removing the icon
+Rename
+Rename a system item?
+Rename anyway
+Renamed
+Repeat
+Repeat all
+Repeat file
+Repeat folder
+Repeat off
+Repeat this file
+Repeat this song
+Replace
+Reset
+Reset all settings
+Reset finished with problems
+Reset settings?
+Reset zoom & position
+Restart SwitchMX?
+Resume
+Resume playback
+Resume positions will be forgotten.
+Resumed at {0}
+Resumed from {0}
+Ridges
+Right side swipe
+Ring wave
+Rotate
+Russian
+SD Card
+SD card or USB
+SMB (shared folders)
+SOUND
+Safe to unplug {0}
+Safely remove
+Saturation
+Saturday
+Save debug log
+Saving the icon's details
+Scale only
+Scales every element on screen
+Scan to write an email.
+Scan with your phone's camera to open it.
+Screen off
+Screenshot
+Screenshot saved
+Search for
+Search in the document
+Search in this folder and below
+Search subtitles for
+Search: {0}
+Searching
+Searching needs your own free OpenSubtitles API key:
+Searching…
+Search…
+Seconds buffered ahead when streaming
+Seek bar style
+Seek step for the long-seek action
+Select
+Select all
+Select files
+Send only Bitcoin (BTC) on the Bitcoin network to this address.
+Send only ETH or ERC-20 tokens on the Ethereum network to this address.
+Send only SOL or Solana tokens on the Solana network to this address.
+Send only USDT on the Tron network (TRC-20). Other networks would be lost.
+Send some love · tap for a larger code
+Sep
+September
+Servers on your network: FTP
+Set A
+Set B
+Settings
+Settings reset
+Shadow
+Shapes the sound of music and films
+Shared folder (leave empty to choose from the server's)
+Shared folders (SMB) and FTP servers on your network
+Shared folders (SMB) or FTP
+Short seek
+Show SwitchMX some love
+Show all file types
+Show controls, then exit
+Show file details
+Show file extensions
+Show hidden files
+Show posters, album art and picture previews in the browser
+Show remaining time
+Show the battery level as a number
+Showing all files
+Showing hidden files
+Showing media only
+Shown in the music player from a .lrc file or the song's tags
+Shuffle
+Shuffle off
+Shuffle on
+Size
+Size and date under each file
+Size: {0}
+Skip existing
+Skip it
+Sky blue
+Sleep after how many minutes?
+Sleep in {0} min
+Sleep timer
+Sleep timer finished
+Sleep timer: playback paused
+Slideshow
+Slideshow started
+Slideshow stopped
+Slim
+Slower
+Small
+Small speakers
+Smaller text
+Smooth
+Smooth colour banding (uses more GPU)
+Snappy
+Software
+Software decoding
+Software decoding threads
+Solana network
+Solid
+Solid box
+Some items already exist
+Something went wrong while talking to OpenSubtitles
+Songs and videos you like, and pinned folders and files
+Sort & filter
+Sound
+Spanish
+Spectrum line
+Speed menu
+Speed of transitions and motion
+Starfield
+Start SwitchMX from its own icon instead of the Album
+Start Wi-Fi transfer with the app
+Start over
+Starts a slideshow when you open a picture
+Stereo
+Stereo (speakers, headphones)
+Stop
+Stop slideshow
+Stop the download?
+Stops the screen dimming and auto-sleep
+Storage
+Stream
+Stream URL
+Streams
+Stretch
+Style
+Styled subtitles (ASS)
+Subtitle files
+Subtitle loaded
+Subtitles
+Subtitles menu
+Subtitles off
+Subtle
+Sunday
+Sunset
+Surround needs a TV or receiver with 5.1 over HDMI
+Surround when docked
+Swap A and B
+Swedish
+Swipe sensitivity
+Swipe to seek
+SwitchMX has its own icon on the HOME Menu
+SwitchMX is on the HOME Menu
+SwitchMX is running from this icon right now, so it can't remove it. Close the app, open it from the Album (hbmenu), and turn this off there.
+SwitchMX was reset
+TEXT SIZE
+TIMING & STYLE
+Take a frame from videos that have no cover art
+Take screenshot
+Tap New playlist, or press X on a song or video and choose Add to playlist
+Tap files to select
+Tap files to select them
+Tap the eye icon to show all files
+Tap the heart in the player to like a song or video
+Tap the heart in the player, or press X on a file
+Tap to show the code larger
+Tap to unlock
+Test read speed
+Text colour
+Text encoding
+Text size
+Text size {0}
+Thai
+That doesn't look like an FTP server
+That isn't a network address
+That keys file is missing header_key or key_area_key_application_00
+That name is already used here
+The HOME Menu icon was updated
+The SD card is full or read-only
+The Switch isn't connected to Wi-Fi.
+The app itself stays on your SD card.
+The connection was lost
+The console is busy. Try again in a moment
+The console is too busy to search right now
+The console stays awake while this is on.
+The console's clock says {0}: streams may fail
+The download failed (
+The download failed ({0})
+The download was incomplete
+The drive is full while writing {0}
+The files themselves stay where they are.
+The folder listing was cut off
+The icon starts {0}, which doesn't exist. Move the app there first.
+The icon will be added by itself
+The icon won't be added
+The keyboard couldn't open. Start SwitchMX from a game (hold R) and try again
+The language of menus and messages
+The music keeps playing. Tap twice to wake.
+The old token no longer works
+The queue is still loading
+The server didn't accept the login
+The server didn't answer (is it on, and on this network?)
+The server doesn't allow passive transfers
+The server refused the connection
+The server wouldn't list its shared folders
+The server wouldn't list this folder
+The server's reply wasn't understood
+Theme
+There's no page {0}
+There's no shared folder by that name on the server
+These items are needed to boot your console or homebrew.
+Thin progress line while controls are hidden
+This also forgets all resume positions.
+This archive needs a password
+This can't be undone. SwitchMX will close when it's done, and start fresh next time.
+This document couldn't be opened
+This document is locked. Enter its password
+This doesn't look like a text file
+This folder
+This folder is empty
+This folder isn't on the server any more
+This is the only picture here
+This kind of server isn't supported
+This playlist is empty
+This release has no SwitchMX.nro to download
+Thursday
+Tidy video names
+Time before the overlay fades out
+Today
+Today's download limit is used up
+Token
+Top left
+Top right
+Touch: double-tap sides to seek · swipe to scrub · pinch to zoom · hold for fast-forward
+Track {0}
+Trades a little sharpness for smooth CPU playback
+Translucent box
+Treble boost
+Tron network · TRC-20
+Tuesday
+Turkish
+Turn
+Turn off
+Turn off wireless controllers
+Turn on
+Turn screen off while music plays
+Turn the icon off and on again in Settings, Advanced.
+Turn the page
+Turned left
+Turned right
+Two fingers to zoom, drag to pan
+Type a time like 1:05:30
+Typeface for menus and lists; Automatic suits the language
+UP NEXT
+USB audio disconnected
+USB drive
+USB drive removed
+Ukrainian
+Unknown artist
+Unknown error
+Unlike
+Unmute
+Up next
+Up one folder
+Update to v{0}
+Update to v{0}?
+Updated to v{0}
+Upload films, music and pictures from a browser
+Upside down
+Use 24-hour time in the status bar
+Use B to confirm and A to go back
+User name (leave empty to sign in as a guest)
+Uses the Switch video chip for H.264, HEVC, VP9 and MPEG-2
+Vertical drag on the left half
+Vertical drag on the right half
+Vertical position
+Video
+Video engine failed to start
+Video engine is not available
+Video menu
+Video thumbnails
+Vietnamese
+View as text
+View contents
+Visualizer
+Visualizer colours
+Vocal
+Volume
+Volume boost
+Volume when the player starts
+Volume, equalizer, night mode
+WARNING: this includes system files. Your console or homebrew may stop booting.
+WARNING: your console or homebrew may stop booting without it.\n\n
+Waiting for Wi-Fi…
+Waiting for a browser
+Waiting for prod.keys on the SD card; it's added by itself
+Watched
+Web links can't be opened from here
+Wednesday
+Welcome to SwitchMX
+What happens when playback ends
+When the controls are hidden
+Where the debug overlay sits
+Whether your style replaces the file's
+While playing
+White
+Wi-Fi transfer
+Wi-Fi transfer starts only when you turn it on
+Wi-Fi transfer will start with SwitchMX
+Windows, Mac, NAS
+Wired, USB or Bluetooth: playback pauses instead of going to the speaker
+Works for SRT and styled ASS subtitles
+Writes a detailed playback log to switch/SwitchMX/mpv-log.txt
+Writing the icon's files
+Wrong password, try again
+Wrong password. Try again
+Wrong user name or password
+X button
+X next style
+Y button
+Yellow
+Yesterday
+You have the latest version
+Your console or homebrew may stop booting if this is renamed.
+Your music and videos, in the order you choose
+Your recently played files
+ZIP with password (AES-256)
+ZL button
+ZR button
+Zoom
+\"{0}\" is {1}, but this drive is FAT32, which can't store files over 4 GB. Use an exFAT or NTFS drive, or reformat this one as exFAT.
+\"{0}\" will be permanently removed.
+any button to return
+copy, move, rename, delete
+mpv/fonts/Vazirmatn-Bold.ttf
+mpv/fonts/Vazirmatn-Regular.ttf
+opensubtitles.com → sign in → Profile → API consumers
+paused
+pick several files
+restart to use it
+size:B
+size:GB
+size:KB
+size:MB
+tap the heart in the player to add more
+try again
+{0} AM
+{0} GB free of {1} GB
+{0} PM
+{0} days ago
+{0} downloads left today
+{0} drive
+{0} drives
+{0} entries
+{0} file
+{0} files
+{0} is larger than 4 GB, which this drive's FAT32 file system can't store. Use an exFAT or NTFS drive.
+{0} item
+{0} item copied
+{0} item copied ({1} skipped)
+{0} item copied. Open a folder, then tap Paste (or press R)
+{0} item couldn't be removed
+{0} item cut. Open a folder, then tap Paste (or press R)
+{0} item deleted
+{0} item moved
+{0} item moved ({1} skipped)
+{0} item selected
+{0} items
+{0} items copied
+{0} items copied ({1} skipped)
+{0} items copied. Open a folder, then tap Paste (or press R)
+{0} items couldn't be removed
+{0} items cut. Open a folder, then tap Paste (or press R)
+{0} items deleted
+{0} items moved
+{0} items moved ({1} skipped)
+{0} items selected
+{0} min
+{0} of {1}
+{0} seconds
+{0} transfers running
+{0} watched
+{0} will be permanently deleted. This can't be undone.
+{0}, {1} {2}
+“Better Call Saul S01E02” instead of the release name; the File Manager shows names as they are
+“{0}” is removed from SwitchMX. Nothing on the server changes.
+→ New consumer, then copy its API key.
+Free software under the AGPL-3.0 · source at github.com/Farzin-Abdi/SwitchMX
+Powered by mpv, FFmpeg, libass, MuPDF, libsmb2, libusbhsfs, libarchive, NanoVG and QR Code generator (Project Nayuki)
+Can't play this
+This file stops at {0}: it may be damaged or incomplete

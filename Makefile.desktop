@@ -1,0 +1,61 @@
+# Desktop build for developing the UI on macOS / Linux.
+# Requires SDL2, FFmpeg and libmpv. On macOS: brew install sdl2 ffmpeg, then
+# sh tools/build-desktop-deps.sh builds a minimal libmpv into build-desktop/deps.
+#
+#   make -f Makefile.desktop && ./build-desktop/switchmx
+#   SWITCHMX_ROOT=/path/to/videos/ ./build-desktop/switchmx
+
+OUT     := build-desktop
+PKGS    := sdl2 mpv libavformat libavcodec libavutil libswscale
+# devkitPro ships its own pkg-config; prefer the host one when available.
+PKG_CONFIG ?= $(firstword $(wildcard /opt/homebrew/bin/pkg-config /usr/local/bin/pkg-config /usr/bin/pkg-config) pkg-config)
+DEPS    := $(CURDIR)/$(OUT)/deps
+PKGCONF := PKG_CONFIG_PATH="$(DEPS)/lib/pkgconfig:$(PKG_CONFIG_PATH)" $(PKG_CONFIG)
+CFLAGS  := -O2 -g -Wall -Isource -Ithird_party/nanovg $(shell $(PKGCONF) --cflags $(PKGS))
+CXXFLAGS := $(CFLAGS) -std=c++17
+LIBS    := $(shell $(PKGCONF) --libs $(PKGS)) -Wl,-rpath,$(DEPS)/lib
+
+ifeq ($(shell uname),Darwin)
+LIBS += -framework OpenGL
+else
+LIBS += -lGL
+endif
+
+CPP_SRCS := $(wildcard source/*.cpp)
+C_SRCS   := $(wildcard source/*.c) third_party/nanovg/nanovg.c
+OBJS     := $(patsubst %.cpp,$(OUT)/%.o,$(CPP_SRCS)) $(patsubst %.c,$(OUT)/%.o,$(C_SRCS))
+
+# Same archive stack as the Switch: libarchive with no crypto library and the patched readers.
+CFLAGS   += -I$(DEPS)/include -I/opt/homebrew/include -Ithird_party/mupdf/include
+CXXFLAGS := $(CFLAGS) -std=c++17
+READERS  := $(addprefix $(OUT)/third_party/libarchive372/archive_read_support_format_,$(addsuffix .o,7zip rar rar5))
+OBJS     += $(READERS)
+LIBS     += $(DEPS)/lib/libsmb2.a $(DEPS)/mupdf/libmupdf.a $(DEPS)/mupdf/libmupdf-third.a $(DEPS)/lib/libarchive.a -L/opt/homebrew/lib -llzma -lbz2 -lz -llz4 -lzstd
+
+GENERATED := source/font_data.c source/codepages.c
+$(GENERATED): tools/gen_data.py
+	@echo "generating embedded data ..."
+	@python3 tools/gen_data.py
+
+$(OBJS): | $(GENERATED)
+
+$(OUT)/switchmx: $(OBJS)
+	$(CXX) -o $@ $^ $(LIBS)
+
+$(OUT)/%.o: %.cpp source/*.hpp source/*.h
+	@mkdir -p $(dir $@)
+	$(CXX) $(CXXFLAGS) -c $< -o $@
+
+$(OUT)/%.o: %.c
+	@mkdir -p $(dir $@)
+	$(CC) $(CFLAGS) -Wno-unused-result -c $< -o $@
+
+# Keeps the locally built dependencies in $(OUT)/deps.
+$(READERS): $(OUT)/third_party/libarchive372/%.o: third_party/libarchive372/%.c
+	@mkdir -p $(dir $@)
+	$(CC) -O2 -g -w -DHAVE_CONFIG_H -Ithird_party/libarchive372 -Isource -I/opt/homebrew/include -c $< -o $@
+
+clean:
+	rm -rf $(OUT)/source $(OUT)/third_party $(OUT)/switchmx
+
+.PHONY: clean

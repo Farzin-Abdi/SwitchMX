@@ -1,0 +1,1039 @@
+0	(ilk {0} gösteriliyor)
+1	=
+2	1 sürücü
+3	1 öğe
+4	1 aktarım sürüyor
+5	100 = ekranın alt kenarı
+6	128 MB
+7	15 dk
+8	192 MB
+9	2 dk
+10	24 saat biçimi
+11	30 dk
+12	32 MB
+13	45 dk
+14	5 dk
+15	60 dk
+16	64 MB
+17	90 dk
+18	{0} {1} {2}
+19	Ağındaki bir bilgisayar SwitchMX'i çalışırken izleyip test edebilir (aşağıdaki anahtarla)
+20	Ad / içeremez
+21	Ad şunları içeremez: / \\ : * ? \" < > |
+22	Ad nokta veya boşlukla bitemez
+23	Yeni bir HOME menüsü simgesi hazır: kurmak için SwitchMX'i bir kez Albüm'den aç
+24	A ayarlandı
+25	Filmler, müzik ve resimler için dokunmatik oynatıcı
+26	A-B döngüsü
+27	HESAP
+28	ALTYAZI EKLE
+29	AMOLED siyah
+30	Hakkında
+31	Vurgu rengi
+32	Oynatıcıdaki işlev
+33	İşlemler
+34	Ekle
+35	Yayın ekle
+36	Ağ sunucusu ekle
+37	Başka bir çalma listesine ekle
+38	Favorilere ekle
+39	Çalma listesine ekle
+40	Beğenilenlere eklendi
+41	Favorilere eklendi
+42	{0} listesine eklendi
+43	{0} dosya {1} listesine eklendi
+44	Simge HOME menüsüne ekleniyor
+45	Adres
+46	Ayarla
+47	Gelişmiş
+48	1 dk sonra
+49	15 dk sonra
+50	2 dk sonra
+51	30 dk sonra
+52	30 sn sonra
+53	5 dk sonra
+54	Oynatırken bir süre kullanılmazsa; herhangi bir tuş yeniden bağlar
+55	Bu süre dokunma veya tuş olmazsa; uyandırmak için iki kez dokun
+56	{0} dk sonra
+57	{0} sn sonra
+58	Albüm renkleri
+59	Renkler her şarkının kapağını izler
+60	Tümü
+61	Sesi %100'ün üstüne çıkar
+62	Zaten {0} içinde
+63	Duraklatıldığında da
+64	Simge güncellemesi hazır: yüklemek için SwitchMX'i bir kez Albüm'den aç
+65	Animasyonlar
+66	Anahtara sahip herkes SwitchMX'i görüp kontrol edebilir. İşin bitince kapat.
+67	Görünüm
+68	Applet modu: tam bellek için bir oyunu açarken R'yi basılı tut
+69	Nis
+70	Nisan
+71	Arapça
+72	Arşiv
+73	Arşiv adı
+74	Emin misin?
+75	En boy oranı
+76	En boy oranı
+77	Açılışta: {0}
+78	Ses
+79	Ses gecikmesi
+80	Ses menüsü
+81	Ses çıkışı
+82	Ağu
+83	Ağustos
+84	Kutup ışığı
+85	Otomatik
+86	Altyazıları otomatik yükle
+87	Sonrakini otomatik oynat
+88	Otomatik
+89	Geri
+90	Kitaplık ekranlarının arka planı
+91	Arka plan
+92	Dengeli
+93	Çubuklar
+94	Bas güçlendirme
+95	Pil yüzdesi
+96	Bitcoin ağı
+97	Harflerin çevresinde siyah kenar
+98	Bluetooth ses bağlantısı kesildi
+99	Kalın
+100	Kalın yazı
+101	Sol alt
+102	Sağ alt
+103	Kutu
+104	Altyazı metninin arkasında kutu
+105	Parlaklık
+106	İLETİŞİM
+107	Boyut hesaplanıyor
+108	{0} klasörü oluşturulamadı
+109	Arşiv oluşturulamadı
+110	Hedef klasör oluşturulamadı
+111	{0} oluşturulamadı: {1}
+112	{0} klasörü silinemedi: {1}
+113	{0} silinemedi: {1}
+114	Bu sunucu ağda bulunamadı
+115	{0} bulunamadı
+116	Arşiv tamamlanamadı
+117	{0} yazılması bitirilemedi
+118	{0} açılamadı
+119	Oynatılamıyor: {0}
+120	\"{0}\" kendi içine konulamaz
+121	{0} okunamadı
+122	{0} okunamadı: {1}
+123	Arşiv yazılamadı
+124	SD karta yazılamıyor
+125	{0} yazılamadı
+126	{0} yazılamadı: {1}
+127	İptal
+128	Kategori
+129	Değiştir
+130	API anahtarını değiştir…
+131	Değiştir…
+132	Bölüm {0}
+133	Bölümler
+134	Şarj aleti çıkarıldı
+135	Şarj oluyor
+136	Güncellemeler denetleniyor…
+137	Çince
+138	Dosya seç
+139	Dosya seç…
+140	Bir yazı boyutu seç. İstediğin zaman Ayarlar'dan değiştirebilirsin.
+141	Dilini seç. İstediğin zaman Ayarlar'dan değiştirebilirsin.
+142	Temizle
+143	Tüm geçmişi temizle
+144	Panoyu boşalt
+145	Geçmiş temizlensin mi?
+146	Seçimi kaldır
+147	İzleme geçmişini temizle
+148	İzleme geçmişi temizlensin mi?
+149	Kapat
+150	SwitchMX'i kapat
+151	Yeni sürümü kullanmak için şimdi kapatıp yeniden aç.
+152	Oynatıcıyı kapat
+153	Aramayı kapat
+154	Renk
+155	Altyazı metninin rengi
+156	Renkli
+157	Renkler
+158	Kompakt
+159	Gürültülü patlamaları bastırır, diyalogları öne çıkarır
+160	Gürültülü sahneleri bastırır
+161	{0} öğeyi sıkıştır
+162	{0} öğeyi sıkıştır
+163	Sıkıştır…
+164	Sıkıştırılıyor
+165	Bilgisayar veya NAS adresi (ör. 192.168.1.10 veya BILGISAYARIM)
+166	Sistem Ayarları → İnternet'ten bağla ve buraya geri dön.
+167	Bağlandı: {0}
+168	Sunucuya bağlanılıyor…
+169	İçerik: {0} dosya, {1} klasör
+170	İçindekiler
+171	Devam
+172	Okumaya devam et
+173	İzlemeye devam et
+174	Kaldığın yerden devam et
+175	Kontrast
+176	Kumandalar kapatıldı. Yeniden bağlamak için bir tuşa bas
+177	Kontroller
+178	Kontroller kilitlendi
+179	Kontrollerin kilidi açıldı
+180	Kopyalandı ama {0} dosyasının aslı kaldırılamadı
+181	Kopyala
+182	Kopyalanıyor
+183	Köşe yuvarlaklığı
+184	Simge eklenemedi
+185	Güncellemeler denetlenemedi
+186	Sıkıştırılamadı
+187	Sunucuya bağlanılamadı
+188	Klasör oluşturulamadı
+189	Silinemedi
+190	Dosya silinemedi
+191	Resim silinemedi
+192	Çıkarılamadı
+193	Tamamlanamadı
+194	Dosya açılamadı
+195	Dosya açılamadı
+196	Sürücü çıkarılamadı
+197	Simge kaldırılamadı
+198	Yeniden adlandırılamadı: {0}
+199	Uygulama dosyası değiştirilemedi
+200	Ekran görüntüsü kaydedilemedi
+201	İndirme başlatılamadı. Tekrar dene
+202	İşlem başlatılamadı
+203	HOME menüsü simgesi güncellenemedi
+204	Toplam süre yerine geri sayım
+205	Kapak resimleri
+206	Krem
+207	Klasör oluştur, yeniden adlandır ve sil
+208	{0} oluşturuldu
+209	{0} oluşturuldu. Eklemek için bir dosyada X'e bas
+210	Özel…
+211	Kes
+212	Camgöbeği
+213	En boy oranını değiştir
+214	Sol/sağ atlama adımı
+215	Oynatıcıda yukarı/aşağı
+216	KOD ÇÖZÜCÜ
+217	Gün ışığı
+218	Bant giderme
+219	Hata ayıklama
+220	Hata ayıklama bilgisi
+221	Ara
+222	Aralık
+223	Kod çözücü iş parçacıkları
+224	Kod çözme
+225	Derin okyanus
+226	Varsayılan
+227	Varsayılan hız
+228	Varsayılan video sığdırma
+229	Varsayılan ses düzeyi
+230	Taramayı birleştir
+231	Gecikme
+232	Sil
+233	\"{0}\" silinsin mi?
+234	Bir sistem dosyası silinsin mi?
+235	Dosya silinsin mi?
+236	Çalma listesini sil
+237	Bu resim silinsin mi?
+238	Silinsin mi?
+239	Ayarlarını, izleme geçmişini ve devam noktalarını, çalma listelerini, beğenileri, favorileri, yayınları, kapakları, önbellekleri ve günlükleri siler. Filmlerine, müziklerine ve resimlerine, ekran görüntülerine ve uygulamanın kendisine dokunulmaz.
+240	Siliniyor
+241	Demuxer belleği
+242	Seçimi kaldır
+243	Ayrıntılar
+244	Geliştiren: Farzin Abdi
+245	Geliştirici erişimi
+246	Geliştirici modu
+247	Adlardan sonra .mkv, .mp4 … göster
+248	Bitti
+249	Çift dokunma atlama miktarı
+250	Sol veya sağ tarafa çift dokun
+251	Çift dokunarak atla
+252	İndir ve kur
+253	SD kart ve USB sürücülerdeki her şeyi indir veya oynat
+254	İndiriliyor…
+255	Videonun üzerinde yatay kaydır
+256	Sürücüler
+257	Felemenkçe
+258	Her ek dokunuş daha fazla ekler
+259	Her video seçtiğin ses ve altyazıyla yeniden açılır
+260	Düzenle
+261	E-posta
+262	Şifreleme başarısız
+263	Dosya sonu
+264	Bu şarkının sonu
+265	Bu videonun sonu
+266	İngilizce
+267	API anahtarını gir…
+268	Ekran klavyesiyle bir URL gir
+269	Ekolayzer
+270	Tüm SwitchMX verileri silinsin mi?
+271	Tüm verileri sil
+272	Her şeyi sil
+273	Ethereum ağı · ETH ve ERC-20
+274	Her seçenek varsayılan değerine döner.
+275	Kaydettiği her şey silindi. Temiz bir başlangıç için yeniden aç.
+276	Tam eşleşme
+277	Çıkış
+278	SwitchMX'ten çıkılsın mı?
+279	Harici
+280	Çok büyük
+281	Buraya çıkar
+282	\"{0}\" içine çıkar
+283	Şuraya çıkar…
+284	{0} içine çıkarıldı
+285	Çıkarılıyor
+286	FİLM  ·  MÜZİK  ·  RESİM
+287	FPS ve istatistikler
+288	FPS, kare süreleri, kod çözücü, düşen kareler ve bellek
+289	Bilgisayar, NAS veya telefonda FTP
+290	FTP sunucu adresi (ör. 192.168.1.10 veya 192.168.1.10:2121)
+291	FTP sunucu uygulamaları
+292	Hızlı
+293	Hızlı yazılımsal kod çözme
+294	Daha hızlı
+295	En hızlı
+296	Favoriler
+297	Şub
+298	Şubat
+299	Dosya Yöneticisi
+300	Dosya işlemleri…
+301	Dosya silindi
+302	Dosya boyutu
+303	Dosyalar
+304	Doldur
+305	Doldur (kırp)
+306	Videonun yanındaki .srt/.ass dosyalarını bul
+307	Çevrimiçi bul
+308	Çevrimiçi bul…
+309	Bitti
+310	Ateş
+311	İlk sayfa
+312	Sığdır
+313	Sayfa genişliğine sığdır
+314	Tüm sayfayı sığdır
+315	Klasör
+316	Klasör adı
+317	Açılacak klasör (en üst için /)
+318	Sistem ayarlarını izle
+319	Yazı tipi
+320	Hareket sırasında çizgi görünen TV kayıtları için
+321	Harfleri bozuk görünen eski .srt dosyaları için
+322	Benim stilimi uygula
+323	Zorunlu
+324	Biçim
+325	Kare süresi grafiği
+326	Fransızca
+327	Cuma
+328	Keskin kenarlardan yuvarlak hatlara
+329	En baştan
+330	Gama
+331	Almanca
+332	Hareketler
+333	GitHub meşgul. Daha sonra tekrar dene
+334	Sayfaya git
+335	Sayfaya git (1 - {0})
+336	Sayfaya git…
+337	Zamana git (s:dd:ss)
+338	Zamana git…
+339	Gradyan
+340	Grafit
+341	Yunanca
+342	Yeşil
+343	Izgara
+344	Izgara görünümü
+345	HOME menüsü simgesi
+346	HTTP(S), HLS, RTMP, RTSP ve IPTV .m3u bağlantıları
+347	Hale
+348	Donanım
+349	Donanımsal kod çözme
+350	Kulaklık
+351	Kulaklık çıkarıldı
+352	Daha kalın altyazı yazısı
+353	İbranice
+354	Gizle
+355	Kontrolleri şu süre sonra gizle
+356	Gizli dosyalar gizleniyor
+357	Vurgular, ilerleme çubukları ve odak parıltısı
+358	Hintçe
+359	Geçmiş temizlendi
+360	Hızlı ileri sarmak için basılı tut
+361	Kaydırmanın ne kadar atlayacağı
+362	Dosyaların klasörlerde nasıl gösterileceği
+363	Videonun ekranı nasıl dolduracağı
+364	Ton
+365	Simge HOME menüsünden kaldırıldı
+366	Dosya zaten varsa
+367	Resim slayt gösterisi
+368	Endonezce
+369	Bilgi
+370	Arayüz boyutu
+371	GitHub'dan indirilir ve SwitchMX'in bu kopyasının yerini alır. Ayarların korunur.
+372	Konsolunun anahtarları gerekir; Lockpick_RCM ile bir kez kaydedilir:\n1. hekate → Payloads → Lockpick_RCM ile yeniden başlat.\n2. VOL+ / VOL− ile gez, POWER ile seç: \"Dump from SysNAND\".\n3. Anahtarların kaydedildiğini söyleyince \"Reboot to hekate\" (veya Power off) seç.\n4. Atmosphère'i her zamanki gibi başlat ve SwitchMX'i aç: simge kendiliğinden gelir.
+373	İtalyanca
+374	Oca
+375	Ocak
+376	Japonca
+377	Tem
+378	Temmuz
+379	Haz
+380	Haziran
+381	Az önce
+382	Kaleydoskop
+383	İkisini de tut
+384	Konsolu uyanık tut
+385	Aslını tut
+386	Bitene kadar bunu açık tut
+387	Korece
+388	L tuşu
+389	DİL
+390	LED matris
+391	Dil
+392	Büyük
+393	Daha büyük yazı
+394	Önce en büyükler
+395	Sıradaki son dosya
+396	Son sayfa
+397	Son oynatma: {0}
+398	Son istek {0} sn önce
+399	Sol tarafta kaydırma
+400	Süre: {0}
+401	SwitchMX açılır açılmaz ağındaki bir tarayıcının dosyaları yönetmesine izin verir
+402	Kitaplık düzeni
+403	Beğen
+404	Beğen / vazgeç
+405	Beğenilenler
+406	Leylak
+407	Liste
+408	Liste görünümü
+409	Her karenin süresinin canlı grafiği
+410	Konum: {0}
+411	Kilitle
+412	Kontrolleri kilitle
+413	Kilitli — açmak için −'ye bas veya kilide dokun
+414	Uzun atlama
+415	Uzun geri atlama
+416	Uzun ileri atlama
+417	İlerleme çubuğunun görünümü
+418	=
+419	Büyük dosyalar applet modunda çöküyorsa bunu düşür
+420	Şarkı sözleri
+421	Şarkı sözleri kapalı
+422	Şarkı sözleri açık
+423	Yapan: Farzin Abdi
+424	Boş zamanlarda sevgiyle yapıldı. Switch'ini daha iyi yaptıysa, bir hediye büyümesine yardım eder. Teşekkürler!
+425	Dosyaları bilgisayardan veya telefondan yönet
+426	Yönetim görünümü: tüm dosyalar; kopyala, taşı, yeniden adlandır ve daha fazlası
+427	=
+428	Mart
+429	=
+430	Medya Oynatıcı
+431	Medya görünümü
+432	Bellek azaldığı için SwitchMX kapanmasın diye oynatma durduruldu. Kaldığın yer kaydedildi.
+433	Menü
+434	Gece yarısı
+435	Küçük ilerleme çubuğu
+436	Ayna
+437	Moka
+438	Değiştirilme
+439	Değiştirilme: {0}
+440	Pazartesi
+441	=
+442	Daha fazla
+443	Diğer seçenekler
+444	Dağlar
+445	Yine de taşı
+446	Aşağı taşı
+447	Buraya taşı
+448	Sistem dosyaları taşınsın mı?
+449	Yukarı taşı
+450	Taşınıyor
+451	Oynattığın müzik ve videolar burada görünür
+452	Müzik görselleştirici
+453	Sessiz
+454	Ses kapalı
+455	ŞİMDİ ÇALIYOR
+456	Yalnızca NVTEGRA
+457	Ad
+458	Ad (A–Z)
+459	Ad (Z–A)
+460	Bu sunucu için ad
+461	Neon
+462	Neon çubuklar
+463	Neon parıltı
+464	Ağ
+465	Ağ önbelleği
+466	Ağ yayınları
+467	Asla
+468	Yeni klasör
+469	Yeni ad
+470	Yeni çalma listesi
+471	Yeni anahtar
+472	Önce en yeniler
+473	Sonraki
+474	Sonraki ses parçası
+475	Sonraki bölüm
+476	Sonraki dosya
+477	Sonraki eşleşme
+478	Sonraki altyazı
+479	Bu videonun yanında
+480	Gece modu
+481	Gece modu sesi
+482	Ses yok
+483	Bu arşivde dosya yok
+484	İnternet bağlantısı yok
+485	SD kartta anahtar dosyası yok
+486	Burada medya yok
+487	Başka eşleşme yok
+488	Eklenecek müzik veya video yok
+489	Ağ bağlantısı yok
+490	Bu klasörde oynatılabilir dosya yok
+491	Henüz çalma listesi yok
+492	Henüz yayınlanmış sürüm yok · tekrar denetle
+493	Henüz istek yok
+494	Bu videonun yanında altyazı dosyası bulunamadı.
+495	Burada altyazı dosyası yok. Bir klasör aç.
+496	Hiçbiri
+497	Bu dosyaların hiçbiri kullanılamıyor
+498	Kuzey ayazı
+499	=
+500	Normal hız
+501	Kullanılamıyor: silinmiş, uygulama dışında taşınmış veya çıkarılmış bir sürücüde
+502	Yeterli alan yok: {0} gerekli, {1} boş
+503	Yeterli bellek yok
+504	Bu dosyayı açmak için yeterli bellek yok. SwitchMX'i kapatıp yeniden başlat
+505	Bulunamadı
+506	Hiçbir şey
+507	Hiçbir şey bulunamadı
+508	=
+509	\"{0}\" için hiçbir şey bulunamadı
+510	Eksik bir şey yok
+511	Henüz beğenilen yok
+512	Henüz sabitlenen yok
+513	Henüz oynatılan yok
+514	Kas
+515	Kasım
+516	KAPALI
+517	Tamam
+518	AÇIK
+519	BİR TARAYICIDA AÇ VEYA KODU TARA
+520	Okyanus
+521	Eki
+522	Ekim
+523	Kapalı
+524	Kapalı (CPU)
+525	Açık
+526	Yalnızca Switch'te
+527	Ağdan yalnızca video ve müzik oynatılır
+528	Yalnızca senin ağın bağlanabilir ve burada gösterilen PIN gerekir.
+529	Aç
+530	SwitchMX'i yeniden aç; Ayarlar'dan tekrar deneyebilirsin.
+531	Önce SwitchMX'i Albüm'den aç
+532	Bir klasör aç ve oraya çıkarmak için R'ye bas
+533	Önce bir klasör aç
+534	Bulunduğu klasörü aç
+535	OpenSubtitles API anahtarı
+536	OpenSubtitles yanıtı: {0}
+537	OpenSubtitles API anahtarını reddetti
+538	Açılıyor
+539	Depolama açılıyor
+540	SD kart içeriği açılıyor
+541	SD kart veritabanı açılıyor
+542	Seçenekler
+543	Turuncu
+544	Yörünge
+545	Orijinal
+546	Osiloskop
+547	Kenar kalınlığı
+548	Arayüzün genel renk düzeni
+549	Bilgi konumu
+550	RESİM
+551	SABİTLENENLER
+552	ŞURADAN ÇALIYOR
+553	Sayfa
+554	Sayfa {0}
+555	Sayfa {0} / {1}
+556	Parçacıklar
+557	Parola
+558	Yapıştır
+559	Buraya yapıştır
+560	Kulaklık çıkınca duraklat
+561	Performans bilgisi
+562	Farsça
+563	Varsa otomatik seçilir
+564	Resim silindi
+565	Yakınlaştırmak için kıstır
+566	Pembe
+567	Oynat
+568	Oynat / duraklat
+569	Tümünü oynat
+570	Baştan oynat
+571	Buradan oynat
+572	Şimdi oynat
+573	Yalnızca bu dosyayı oynat
+574	Oynatma
+575	Oynatma hızı
+576	Yeni dosyalar için oynatma hızı
+577	Oynatma durduruldu
+578	Bu dosyanın bulunduğu sürücü çıkarıldığı için oynatma durdu.
+579	Oynatıcı kontrolleri
+580	Oynatıcı menüsü
+581	Çalma listesi
+582	Çalma listesi adı
+583	Oynatma listeleri
+584	Lehçe
+585	Portekizce
+586	Konum
+587	İleri kullanıcılar: mpv.conf dosyasını {0} içine koy
+588	mpv, FFmpeg, libass, NanoVG ve QR Code generator (Project Nayuki) ile çalışır
+589	Hassas
+590	Tercih edilen ses dili
+591	Tercih edilen dil
+592	Oynatıcıyı kapatmak için tekrar B'ye bas
+593	Geri dönmek için B'ye bas
+594	Hepsini denemek için müzik oynatıcıda X'e bas
+595	Bir dosya veya klasörde X'e bas (ya da basılı tut) ve Favorilere ekle'yi seç
+596	Bir dosya veya klasörde X'e bas ve Çalma listesine ekle'yi seç
+597	Tekrar denemek için Y, geri dönmek için B
+598	Hızlandırmak için videoyu basılı tut
+599	Önceki
+600	Önceki bölüm
+601	Önceki dosya
+602	Önceki eşleşme
+603	Kontroller gizliyken ilerleme çizgisi
+604	Özellikler
+605	Nabız
+606	Sıra
+607	Klasördeki diğer videoları sıraya ekler
+608	R tuşu
+609	Radyal
+610	Gökkuşağı
+611	=
+612	Işınlar
+613	Oku
+614	Okuma hızı: {0}
+615	Arşiv okunuyor
+616	Okuma seçenekleri
+617	Hazır
+618	Son
+619	Kırmızı
+620	Yenile
+621	Rahat
+622	Parça seçimlerini hatırla
+623	Kaldır
+624	Favorilerden kaldır
+625	Geçmişten kaldır
+626	Çalma listesinden kaldır
+627	Eksik dosyaları kaldır
+628	HOME menüsü simgesi kaldırılsın mı?
+629	Bu sunucu kaldırılsın mı?
+630	Beğenilenlerden kaldırıldı
+631	Favorilerden kaldırıldı
+632	{0} öğe kaldırıldı
+633	{0} öğe kaldırıldı
+634	Renk bantlarını giderir
+635	Simge kaldırılıyor
+636	Yeniden adlandır
+637	Bir sistem öğesi yeniden adlandırılsın mı?
+638	Yine de yeniden adlandır
+639	Yeniden adlandırıldı
+640	Tekrarla
+641	Tümünü tekrarla
+642	Dosyayı tekrarla
+643	Klasörü tekrarla
+644	Tekrar kapalı
+645	Bu dosyayı tekrarla
+646	Bu şarkıyı tekrarla
+647	Değiştir
+648	Sıfırla
+649	Tüm ayarları sıfırla
+650	Sıfırlama sorunlarla bitti
+651	Ayarlar sıfırlansın mı?
+652	Yakınlaştırmayı ve konumu sıfırla
+653	SwitchMX yeniden başlatılsın mı?
+654	Devam et
+655	Oynatmaya devam et
+656	Devam noktaları unutulacak.
+657	{0} konumundan devam
+658	{0} konumundan devam edildi
+659	Sırtlar
+660	Sağ tarafta kaydırma
+661	Halka dalga
+662	Döndür
+663	Rusça
+664	SD Kart
+665	SD kart veya USB
+666	SMB (paylaşılan klasörler)
+667	SES
+668	{0} güvenle çıkarılabilir
+669	Güvenle çıkar
+670	Doygunluk
+671	Cumartesi
+672	Hata ayıklama günlüğünü kaydet
+673	Simge bilgileri kaydediliyor
+674	Yalnızca ölçekle
+675	Ekrandaki her öğeyi ölçekler
+676	E-posta yazmak için tara.
+677	Açmak için telefonunun kamerasıyla tara.
+678	Ekran kapalı
+679	Ekran görüntüsü
+680	Ekran görüntüsü kaydedildi
+681	Ara
+682	Belgede ara
+683	Bu klasörde ve alt klasörlerde ara
+684	Şunun için altyazı ara
+685	Arama: {0}
+686	Aranıyor
+687	Arama için kendi ücretsiz OpenSubtitles API anahtarın gerekir:
+688	Aranıyor…
+689	Ara…
+690	Yayın sırasında önden arabelleğe alınan saniye
+691	İlerleme çubuğu stili
+692	Uzun atlama adımı
+693	Seç
+694	Tümünü seç
+695	Dosya seç
+696	Bu adrese yalnızca Bitcoin ağında Bitcoin (BTC) gönder.
+697	Bu adrese yalnızca Ethereum ağında ETH veya ERC-20 token gönder.
+698	Bu adrese yalnızca Solana ağında SOL veya Solana token gönder.
+699	Yalnızca Tron ağında (TRC-20) USDT gönder. Diğer ağlarda kaybolur.
+700	Biraz sevgi gönder · büyük kod için dokun
+701	Eyl
+702	Eylül
+703	Ağınızdaki sunucular: FTP
+704	A ayarla
+705	B ayarla
+706	Ayarlar
+707	Ayarlar sıfırlandı
+708	Gölge
+709	Müzik ve filmlerin sesini biçimlendirir
+710	Paylaşılan klasör (sunucudakilerden seçmek için boş bırakın)
+711	Ağınızdaki paylaşılan klasörler (SMB) ve FTP sunucuları
+712	Paylaşılan klasörler (SMB) veya FTP
+713	Kısa atlama
+714	SwitchMX'e biraz sevgi göster
+715	Tüm dosya türlerini göster
+716	Kontrolleri göster, sonra çık
+717	Dosya ayrıntılarını göster
+718	Dosya uzantılarını göster
+719	Gizli dosyaları göster
+720	Tarayıcıda poster, albüm kapağı ve resim önizlemesi göster
+721	Kalan süreyi göster
+722	Pil seviyesini sayıyla göster
+723	Tüm dosyalar gösteriliyor
+724	Gizli dosyalar gösteriliyor
+725	Yalnızca medya gösteriliyor
+726	Müzik oynatıcıda bir .lrc dosyasından veya şarkı etiketlerinden gösterilir
+727	Karıştır
+728	Karıştırma kapalı
+729	Karıştırma açık
+730	Boyut
+731	Her dosyanın altında boyut ve tarih
+732	Boyut: {0}
+733	Var olanları atla
+734	Atla
+735	Gök mavisi
+736	Kaç dakika sonra dursun?
+737	{0} dk sonra duracak
+738	Uyku zamanlayıcısı
+739	Uyku zamanlayıcısı bitti
+740	Uyku zamanlayıcısı: oynatma duraklatıldı
+741	Slayt gösterisi
+742	Slayt gösterisi başladı
+743	Slayt gösterisi durdu
+744	İnce
+745	Daha yavaş
+746	Küçük
+747	Küçük hoparlörler
+748	Daha küçük yazı
+749	Akıcı
+750	Renk bantlarını yumuşatır (daha çok GPU kullanır)
+751	Çevik
+752	Yazılım
+753	Yazılım kod çözme
+754	Yazılımsal kod çözme iş parçacıkları
+755	Solana ağı
+756	Dolu
+757	Dolu kutu
+758	Bazı öğeler zaten var
+759	OpenSubtitles ile konuşurken bir sorun oluştu
+760	Beğendiğin şarkılar ve videolar, sabitlenmiş klasör ve dosyalar
+761	Sırala ve filtrele
+762	Ses
+763	İspanyolca
+764	Spektrum çizgisi
+765	Hız menüsü
+766	Geçiş ve hareket hızı
+767	Yıldız alanı
+768	SwitchMX'i Albüm yerine kendi simgesinden başlat
+769	Wi-Fi aktarımını uygulamayla başlat
+770	Baştan başla
+771	Bir resim açıldığında slayt gösterisi başlatır
+772	=
+773	Stereo (hoparlör, kulaklık)
+774	Durdur
+775	Slayt gösterisini durdur
+776	İndirme durdurulsun mu?
+777	Ekranın kararmasını ve otomatik uykuyu engeller
+778	Depolama
+779	Yayın
+780	Yayın URL'si
+781	Yayınlar
+782	Uzat
+783	Stil
+784	Biçimli altyazılar (ASS)
+785	Altyazı dosyaları
+786	Altyazı yüklendi
+787	Altyazılar
+788	Altyazı menüsü
+789	Altyazı kapalı
+790	Sade
+791	Pazar
+792	Gün batımı
+793	Surround için HDMI üzerinden 5.1 destekli bir TV veya alıcı gerekir
+794	Dock'tayken surround
+795	A ve B'yi değiştir
+796	İsveççe
+797	Kaydırma hassasiyeti
+798	Kaydırarak atla
+799	SwitchMX'in HOME menüsünde kendi simgesi var
+800	SwitchMX HOME menüsünde
+801	SwitchMX şu an bu simgeden çalışıyor, bu yüzden onu kaldıramaz. Uygulamayı kapat, Albüm'den (hbmenu) aç ve orada kapat.
+802	SwitchMX sıfırlandı
+803	YAZI BOYUTU
+804	ZAMANLAMA VE STİL
+805	Kapağı olmayan videolardan bir kare alır
+806	Ekran görüntüsü al
+807	Yeni çalma listesi'ne dokun ya da bir şarkı veya videoda X'e basıp Çalma listesine ekle'yi seç
+808	Seçmek için dosyalara dokun
+809	Seçmek için dosyalara dokun
+810	Tüm dosyaları görmek için göz simgesine dokun
+811	Bir şarkıyı veya videoyu beğenmek için oynatıcıdaki kalbe dokun
+812	Oynatıcıdaki kalbe dokun veya bir dosyada X'e bas
+813	Kodu büyütmek için dokun
+814	Kilidi açmak için dokun
+815	Okuma hızını test et
+816	Yazı rengi
+817	Metin kodlaması
+818	Yazı boyutu
+819	Yazı boyutu {0}
+820	Tayca
+821	Bu bir FTP sunucusuna benzemiyor
+822	Bu bir ağ adresi değil
+823	Bu anahtar dosyasında header_key veya key_area_key_application_00 yok
+824	Bu ad burada zaten kullanılıyor
+825	HOME menüsü simgesi güncellendi
+826	SD kart dolu veya salt okunur
+827	Switch Wi-Fi'ye bağlı değil.
+828	Uygulamanın kendisi SD kartında kalır.
+829	Bağlantı koptu
+830	Konsol meşgul. Biraz sonra tekrar deneyin
+831	Konsol şu an arama yapamayacak kadar meşgul
+832	Bu açıkken konsol uyanık kalır.
+833	Konsolun saati {0} gösteriyor: yayınlar çalışmayabilir
+834	=
+835	İndirme başarısız ({0})
+836	İndirme eksik kaldı
+837	{0} yazılırken sürücü doldu
+838	Dosyaların kendisi olduğu yerde kalır.
+839	Klasör listesi yarıda kesildi
+840	Simge {0} dosyasını açıyor ama bu dosya yok. Önce uygulamayı oraya taşı.
+841	Simge kendiliğinden eklenecek
+842	Simge eklenmeyecek
+843	Klavye açılamadı. SwitchMX'i bir oyundan (R basılıyken) başlat ve tekrar dene
+844	Menülerin ve mesajların dili
+845	Müzik çalmaya devam ediyor. Uyandırmak için iki kez dokun.
+846	Eski anahtar artık çalışmıyor
+847	Sıra hâlâ yükleniyor
+848	Sunucu girişi kabul etmedi
+849	Sunucu yanıt vermedi (açık ve bu ağda mı?)
+850	Sunucu pasif aktarıma izin vermiyor
+851	Sunucu bağlantıyı reddetti
+852	Sunucu paylaşılan klasörlerini listelemedi
+853	Sunucu bu klasörü listelemedi
+854	Sunucunun yanıtı anlaşılamadı
+855	Tema
+856	{0}. sayfa yok
+857	Sunucuda bu adda paylaşılan klasör yok
+858	Bu öğeler konsolun veya homebrew'ların açılması için gereklidir.
+859	Kontroller gizliyken ince ilerleme çizgisi
+860	Bu, tüm devam noktalarını da unutturur.
+861	Bu arşiv parola istiyor
+862	Bu geri alınamaz. SwitchMX bitince kapanır ve bir dahaki sefere sıfırdan başlar.
+863	Bu belge açılamadı
+864	Bu belge kilitli. Parolasını gir
+865	Bu bir metin dosyasına benzemiyor
+866	Bu klasör
+867	Bu klasör boş
+868	Bu klasör artık sunucuda yok
+869	Buradaki tek resim bu
+870	Bu sunucu türü desteklenmiyor
+871	Bu çalma listesi boş
+872	Bu sürümde indirilecek SwitchMX.nro yok
+873	Perşembe
+874	Düzenli video adları
+875	Bilginin kaybolmasından önceki süre
+876	Bugün
+877	Bugünkü indirme sınırı doldu
+878	Anahtar
+879	Sol üst
+880	Sağ üst
+881	Dokunma: atlamak için kenarlara çift dokun · ilerlemek için kaydır · yakınlaştırmak için kıstır · hızlandırmak için basılı tut
+882	Parça {0}
+883	CPU'da akıcı oynatma için biraz netlikten vazgeçer
+884	Yarı saydam kutu
+885	Tiz güçlendirme
+886	Tron ağı · TRC-20
+887	Salı
+888	Türkçe
+889	Döndür
+890	Kapat
+891	Kablosuz kumandaları kapat
+892	Aç
+893	Müzik çalarken ekranı kapat
+894	Simgeyi Ayarlar, Gelişmiş'ten kapatıp yeniden aç.
+895	Sayfayı döndür
+896	Sola döndürülmüş
+897	Sağa döndürülmüş
+898	Yakınlaştırmak için iki parmak, kaydırmak için sürükle
+899	1:05:30 gibi bir zaman yaz
+900	Menü ve listelerin yazı tipi; Otomatik dile uyar
+901	SIRADAKİLER
+902	USB ses bağlantısı kesildi
+903	USB sürücü
+904	USB sürücü çıkarıldı
+905	Ukraynaca
+906	Bilinmeyen sanatçı
+907	Bilinmeyen hata
+908	Beğenmekten vazgeç
+909	Sesi aç
+910	Sıradaki
+911	Bir üst klasör
+912	v{0} sürümüne güncelle
+913	v{0} sürümüne güncellensin mi?
+914	v{0} sürümüne güncellendi
+915	Tarayıcıdan film, müzik ve resim yükle
+916	Baş aşağı
+917	Durum çubuğunda 24 saat biçimi
+918	Onay için B, geri için A
+919	Kullanıcı adı (misafir girişi için boş bırakın)
+920	H.264, HEVC, VP9 ve MPEG-2 için Switch'in video yongasını kullanır
+921	Sol yarıda dikey sürükleme
+922	Sağ yarıda dikey sürükleme
+923	Dikey konum
+924	=
+925	Video motoru başlatılamadı
+926	Video motoru kullanılamıyor
+927	Video menüsü
+928	Video küçük resimleri
+929	Vietnamca
+930	Metin olarak görüntüle
+931	İçeriği görüntüle
+932	Görselleştirici
+933	Görselleştirici renkleri
+934	Vokal
+935	Ses düzeyi
+936	Ses güçlendirme
+937	Oynatıcı açılırken ses düzeyi
+938	Ses düzeyi, ekolayzır, gece modu
+939	UYARI: sistem dosyaları da var. Konsol veya homebrew'lar açılmayabilir.
+940	UYARI: bu olmadan konsol veya homebrew'lar açılmayabilir.\n\n
+941	Wi-Fi bekleniyor…
+942	Bir tarayıcı bekleniyor
+943	SD kartta prod.keys bekleniyor; kendiliğinden eklenecek
+944	İzlendi
+945	Web bağlantıları buradan açılamaz
+946	Çarşamba
+947	SwitchMX'e hoş geldin
+948	Oynatma bitince ne olacağı
+949	Kontroller gizliyken
+950	Hata ayıklama bilgisinin yeri
+951	Senin stilinin dosyanınkinin yerini alıp almayacağı
+952	Oynatırken
+953	Beyaz
+954	Wi-Fi aktarımı
+955	Wi-Fi aktarımı yalnızca sen açınca başlar
+956	Wi-Fi aktarımı SwitchMX ile başlayacak
+957	Windows, Mac, NAS
+958	Kablolu, USB veya Bluetooth: hoparlöre geçmek yerine oynatma duraklar
+959	SRT ve biçimli ASS altyazılarla çalışır
+960	Ayrıntılı oynatma günlüğünü switch/SwitchMX/mpv-log.txt dosyasına yazar
+961	Simge dosyaları yazılıyor
+962	Yanlış parola, tekrar dene
+963	Yanlış parola. Tekrar dene
+964	Kullanıcı adı veya parola yanlış
+965	X tuşu
+966	X sonraki stil
+967	Y tuşu
+968	Sarı
+969	Dün
+970	En son sürüm sende
+971	Yeniden adlandırılırsa konsol veya homebrew'lar açılmayabilir.
+972	Müziklerin ve videoların, seçtiğin sırada
+973	Son oynattığın dosyalar
+974	Parolalı ZIP (AES-256)
+975	ZL tuşu
+976	ZR tuşu
+977	Yakınlaştırma
+978	\"{0}\" {1} boyutunda ama bu sürücü FAT32 ve 4 GB'tan büyük dosyaları tutamaz. exFAT veya NTFS sürücü kullan ya da bunu exFAT olarak biçimlendir.
+979	\"{0}\" kalıcı olarak silinecek.
+980	geri dönmek için herhangi bir tuş
+981	kopyala, taşı, yeniden adlandır, sil
+982	=
+983	=
+984	opensubtitles.com → giriş yap → Profile → API consumers
+985	duraklatıldı
+986	birden çok dosya seç
+987	kullanmak için yeniden başlat
+988	B
+989	GB
+990	KB
+991	MB
+992	daha fazla eklemek için oynatıcıdaki kalbe dokun
+993	tekrar dene
+994	ÖÖ {0}
+995	{1} GB'ın {0} GB'ı boş
+996	ÖS {0}
+997	{0} gün önce
+998	bugün {0} indirme hakkı kaldı
+999	{0} sürücü
+1000	{0} sürücü
+1001	{0} kayıt
+1002	{0} dosya
+1003	{0} dosya
+1004	{0} 4 GB'tan büyük ve bu sürücünün FAT32 dosya sistemi bunu tutamaz. exFAT veya NTFS sürücü kullan.
+1005	{0} öğe
+1006	{0} öğe kopyalandı
+1007	{0} öğe kopyalandı ({1} atlandı)
+1008	{0} öğe kopyalandı. Bir klasör aç ve Yapıştır'a dokun (veya R'ye bas)
+1009	{0} öğe kaldırılamadı
+1010	{0} öğe kesildi. Bir klasör aç ve Yapıştır'a dokun (veya R'ye bas)
+1011	{0} öğe silindi
+1012	{0} öğe taşındı
+1013	{0} öğe taşındı ({1} atlandı)
+1014	{0} öğe seçildi
+1015	{0} öğe
+1016	{0} öğe kopyalandı
+1017	{0} öğe kopyalandı ({1} atlandı)
+1018	{0} öğe kopyalandı. Bir klasör aç ve Yapıştır'a dokun (veya R'ye bas)
+1019	{0} öğe kaldırılamadı
+1020	{0} öğe kesildi. Bir klasör aç ve Yapıştır'a dokun (veya R'ye bas)
+1021	{0} öğe silindi
+1022	{0} öğe taşındı
+1023	{0} öğe taşındı ({1} atlandı)
+1024	{0} öğe seçildi
+1025	{0} dk
+1026	{0} / {1}
+1027	{0} saniye
+1028	{0} aktarım sürüyor
+1029	{0} izlendi
+1030	{0} kalıcı olarak silinecek. Bu geri alınamaz.
+1031	{0}, {1} {2}
+1032	Sürüm adı yerine \"Better Call Saul S01E02\"; Dosya Yöneticisi adları olduğu gibi gösterir
+1033	“{0}” SwitchMX’ten kaldırılır. Sunucuda hiçbir şey değişmez.
+1034	→ New consumer oluştur ve API anahtarını kopyala.
+1035	AGPL-3.0 lisanslı özgür yazılım · kaynak kodu: github.com/Farzin-Abdi/SwitchMX
+1036	mpv, FFmpeg, libass, MuPDF, libsmb2, libusbhsfs, libarchive, NanoVG ve QR Code generator (Project Nayuki) ile çalışır
+1037	Bu oynatılamıyor
+1038	Bu dosya {0} noktasında bitiyor: bozuk ya da eksik olabilir

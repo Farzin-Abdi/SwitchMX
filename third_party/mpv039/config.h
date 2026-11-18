@@ -1,0 +1,19 @@
+/* Only what demux_mkv.c and the headers it includes look at. */
+#define HAVE_ZLIB 1
+#define HAVE_POSIX 1
+#define HAVE_GPL 1
+#define HAVE_WIN32_THREADS 0
+#define HAVE_WIN32_DESKTOP 0
+#define HAVE_ANDROID 0
+#define HAVE_PTHREAD_CONDATTR_SETCLOCK 1
+#define HAVE_GLIBC_THREAD_NAME 0
+#define HAVE_OSX_THREAD_NAME 0
+#define HAVE_BSD_THREAD_NAME 0
+#define HAVE_PTHREAD_DEBUG 0
+#define HAVE_TA_LEAK_REPORT 0
+#define HAVE_VDPAU 0
+#define HAVE_VAAPI 0
+#define HAVE_D3D_HWACCEL 0
+#define HAVE_DRM 0
+#define HAVE_LIBAVDEVICE 0
+#define HAVE_DOS_PATHS 0
